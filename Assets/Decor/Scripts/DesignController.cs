@@ -177,7 +177,7 @@ namespace Decor
         }
 
         /// <summary>
-        /// 从 Resources 加载变体预览图。优先 UI 目录下的 *_mini，与原先 AA 地址一致；没有再回退到 Texture2D。
+        /// 从 Resources 加载变体预览图。优先 UI 目录下的 *_mini；没有再按房间实际目录回退，最后用道具 Prefab 上已挂的变体贴图。
         /// </summary>
         void ShowItemVariant()
         {
@@ -189,17 +189,44 @@ namespace Decor
             for (int i = 0; i < variantCount; i++)
             {
                 string spriteName = selectedItem.primaryData.id + "_" + (i + 1);
-                variantSprites[i] = Resources.Load<Sprite>(basePath + "/UI/" + spriteName + "_mini");
-                if (variantSprites[i] == null)
-                {
-                    variantSprites[i] = Resources.Load<Sprite>(basePath + "/Texture2D/" + spriteName);
-                }
+                variantSprites[i] = LoadVariantPreviewSprite(basePath, spriteName, selectedItem, i);
                 currencies[i] = (i < selectedItem.primaryData.variantCosts.Length && !selectedItem.primaryData.IsVariantUnlocked(i))
                     ? selectedItem.primaryData.variantCosts[i]
                     : null;
             }
             int variantIndexOnShow = (selectedItem.primaryData.variantIndex == -1) ? 0 : selectedItem.primaryData.variantIndex;
             ApplyVariantSetup(variantSprites, currencies, variantIndexOnShow);
+        }
+
+        /// <summary>
+        /// 按房间资源布局查找变体预览图。客厅在 UI/Texture2D，ApMai 等房间在 Final/Sprite，对不上时用道具自身变体。
+        /// </summary>
+        Sprite LoadVariantPreviewSprite(string basePath, string spriteName, DesignItemView item, int variantIndex)
+        {
+            Sprite sprite = Resources.Load<Sprite>(basePath + "/UI/" + spriteName + "_mini");
+            if (sprite != null)
+                return sprite;
+
+            sprite = Resources.Load<Sprite>(basePath + "/Texture2D/" + spriteName);
+            if (sprite != null)
+                return sprite;
+
+            sprite = Resources.Load<Sprite>(basePath + "/Final/" + spriteName);
+            if (sprite != null)
+                return sprite;
+
+            sprite = Resources.Load<Sprite>(basePath + "/Sprite/" + spriteName);
+            if (sprite != null)
+                return sprite;
+
+            if (item.subVisuals != null && item.subVisuals.Length > 0)
+            {
+                DesignItemView.Variant[] variants = item.subVisuals[0].collectionOfVariant;
+                if (variants != null && variantIndex >= 0 && variantIndex < variants.Length)
+                    return variants[variantIndex].sprite;
+            }
+
+            return null;
         }
 
         /// <summary>

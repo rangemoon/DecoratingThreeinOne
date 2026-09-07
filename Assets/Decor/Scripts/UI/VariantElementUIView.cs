@@ -37,7 +37,9 @@ public class VariantElementUIView : MonoBehaviour
         }
        
         image.sprite = sprite;
-        image.color = Color.white;
+        image.color = sprite != null ? Color.white : Color.clear;
+        if (sprite == null)
+            return;
 
         RectTransform imageRectTransform = image.GetComponent<RectTransform>();
         RectTransform buttonRectTransform = button.GetComponent<RectTransform>();
