@@ -3,9 +3,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-#if PACKAGE_ADDR
-using UnityEngine.AddressableAssets;
-#endif
 
 namespace Decor
 {
@@ -179,19 +176,10 @@ namespace Decor
             return false;
         }
 
-        void ShowItemVariant()
-        {
-#if PACKAGE_ADDR
-            StartCoroutine(ShowItemVariantAsync());
-#else
-            ShowItemVariantSync();
-#endif
-        }
-
         /// <summary>
-        /// 同步加载变体贴图（非 AA 模式，从 Resources 加载）。
+        /// 从 Resources 加载变体预览图。优先 UI 目录下的 *_mini，与原先 AA 地址一致；没有再回退到 Texture2D。
         /// </summary>
-        void ShowItemVariantSync()
+        void ShowItemVariant()
         {
             string basePath = RoomDataTable.Instance.GetRoomDataWithId(Model.Instance.playRoomData.id).assetBundleName;
             int variantCount = selectedItem.GetVariantCount();
@@ -201,7 +189,7 @@ namespace Decor
             for (int i = 0; i < variantCount; i++)
             {
                 string spriteName = selectedItem.primaryData.id + "_" + (i + 1);
-                variantSprites[i] = Resources.Load<Sprite>(basePath + "/UI/" + spriteName);
+                variantSprites[i] = Resources.Load<Sprite>(basePath + "/UI/" + spriteName + "_mini");
                 if (variantSprites[i] == null)
                 {
                     variantSprites[i] = Resources.Load<Sprite>(basePath + "/Texture2D/" + spriteName);
@@ -213,39 +201,6 @@ namespace Decor
             int variantIndexOnShow = (selectedItem.primaryData.variantIndex == -1) ? 0 : selectedItem.primaryData.variantIndex;
             ApplyVariantSetup(variantSprites, currencies, variantIndexOnShow);
         }
-
-#if PACKAGE_ADDR
-        /// <summary>
-        /// 异步加载变体贴图（AA 模式，从 CDN 加载）。
-        /// </summary>
-        IEnumerator ShowItemVariantAsync()
-        {
-            string basePath = RoomDataTable.Instance.GetRoomDataWithId(Model.Instance.playRoomData.id).assetBundleName;
-            int variantCount = selectedItem.GetVariantCount();
-            Sprite[] variantSprites = new Sprite[variantCount];
-            Currency[] currencies = new Currency[variantCount];
-
-            for (int i = 0; i < variantCount; i++)
-            {
-                string spriteName = selectedItem.primaryData.id + "_" + (i + 1);
-                var handle = Addressables.LoadAssetAsync<Sprite>(basePath + "/UI/" + spriteName + "_mini");
-                yield return handle;
-                variantSprites[i] = handle.Result;
-
-                if (variantSprites[i] == null)
-                {
-                    var handleFallback = Addressables.LoadAssetAsync<Sprite>(basePath + "/Texture2D/" + spriteName);
-                    yield return handleFallback;
-                    variantSprites[i] = handleFallback.Result;
-                }
-                currencies[i] = (i < selectedItem.primaryData.variantCosts.Length && !selectedItem.primaryData.IsVariantUnlocked(i))
-                    ? selectedItem.primaryData.variantCosts[i]
-                    : null;
-            }
-            int variantIndexOnShow = (selectedItem.primaryData.variantIndex == -1) ? 0 : selectedItem.primaryData.variantIndex;
-            ApplyVariantSetup(variantSprites, currencies, variantIndexOnShow);
-        }
-#endif
 
         /// <summary>
         /// 将加载好的变体贴图应用到 UI 和特效系统。

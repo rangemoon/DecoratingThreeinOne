@@ -842,7 +842,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     Android: 
     Standalone: 
-    WebGL: XM_VIEW_LANDSCAPE;SPINE;PACKAGE_ADDR;MINIGAME_VIVO
+    WebGL: XM_VIEW_LANDSCAPE;SPINE;MINIGAME_VIVO
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

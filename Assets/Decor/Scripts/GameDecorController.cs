@@ -5,9 +5,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using System.Threading;
-#if PACKAGE_ADDR
-using UnityEngine.AddressableAssets;
-#endif
 
 namespace Decor {
     public class GameDecorController : MonoBehaviour {
@@ -84,17 +81,10 @@ namespace Decor {
         }
         
         /// <summary>
-        /// 加载房间 Prefab 并初始化装饰系统。使用 AA 时从 CDN 异步加载，否则从 Resources 同步加载。
+        /// 从 Resources 整包加载房间 Prefab 并初始化装饰系统。
         /// </summary>
         private IEnumerator LoadRoomAndInitialize() {
-            GameObject roomPrefab;
-#if PACKAGE_ADDR
-            var handle = Addressables.LoadAssetAsync<GameObject>(roomData.assetBundleName + "/" + RoomData.RoomPrefabName);
-            yield return handle;
-            roomPrefab = handle.Result;
-#else
-            roomPrefab = Resources.Load<GameObject>(roomData.assetBundleName + "/" + RoomData.RoomPrefabName);
-#endif
+            GameObject roomPrefab = Resources.Load<GameObject>(roomData.assetBundleName + "/" + RoomData.RoomPrefabName);
             if (!roomPrefab) {
                 Debug.LogError("Room prefab is missing: " + roomData.assetBundleName + "/" + RoomData.RoomPrefabName);
                 enabled = false;
