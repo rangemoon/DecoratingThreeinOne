@@ -1,0 +1,545 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AA_Room_13
+  m_EditorClassIdentifier: 
+  m_GroupName: AA_Room_13
+  m_Data:
+    m_SerializedData: []
+  m_GUID: db2f7031bd7e0c94794f7ae14e5a6337
+  m_SerializeEntries:
+  - m_GUID: 013f3d0a6d323824aaf0c6a91f08ccd1
+    m_Address: Room/New Pink Room/Final/room_11_chair_2_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 014b971bbcfba934e81b8edfd9e7e14a
+    m_Address: Room/New Pink Room/Final/11.table_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 068c58198b21e7e4abbe25d8c45452d4
+    m_Address: Room/New Pink Room/Final/room_11_left_window_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a8c39ebab4bbd941b004b0ebe5290be
+    m_Address: Room/New Pink Room/Final/room_11_cupboard_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c9fea523f3a12c4fb3b60fcc4f954ec
+    m_Address: Room/New Pink Room/Final/room_11_window_decor_top_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d5d36f525b22384385be7cf35807a77
+    m_Address: Room/New Pink Room/Final/room_11_cupboard_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 108153388c669b74c8972fcac26a59ca
+    m_Address: Room/New Pink Room/Final/room_11_ceiling_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 120e390d6523aa846833764a3aaaeebb
+    m_Address: Room/New Pink Room/Final/room_11_chair_3_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13e924c5ab8e8a64dbc0c0ff4872c246
+    m_Address: Room/New Pink Room/Final/room_11_chair_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17a99f45cb7478d438134d0a29287514
+    m_Address: Room/New Pink Room/Final/room_11_decor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18da62cfe8db8b04c85d206e8687b686
+    m_Address: Room/New Pink Room/Final/room_11_window_decor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1917bafd0e5ae204cbbb069c390d2678
+    m_Address: Room/New Pink Room/Final/room_11_table_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2243dbae710794946a4e18e63318a29e
+    m_Address: Room/New Pink Room/Final/room_11_chair_4_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22bc9d66588e8c441be7f1c0a81c9d60
+    m_Address: Room/New Pink Room/Final/room_11_sideboard_decor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23828949b3dc734428836ab611320c67
+    m_Address: Room/New Pink Room/Final/room_11_left_window_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2457175035866514594ae985635a840f
+    m_Address: Room/New Pink Room/room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 277b06a6cf8223b46a4e1d2a338a3da6
+    m_Address: Room/New Pink Room/Final/room_11_sideboad_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27b701a2380bdc74fb0d211101e6a052
+    m_Address: Room/New Pink Room/Final/room_11_chair_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2faf954d3ee9c1d44a6d82e09146093a
+    m_Address: Room/New Pink Room/Final/room_11_floor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30ea8aeb820372c44bf0d41cd833f6b1
+    m_Address: Room/New Pink Room/Final/room_11_hanging_lamp_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36ea62e0c11404447b67377fb8e30a4b
+    m_Address: Room/New Pink Room/Final/room_11_chair_1_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3806e93ec08c719418adb772e12ad26d
+    m_Address: Room/New Pink Room/Final/room_11_table_decor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 392232c4bb972574ea3d43c3de193267
+    m_Address: Room/New Pink Room/Final/room_11_window_tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d33cf38a5cad8c4b93e3faac795e1ef
+    m_Address: Room/New Pink Room/Final/room_11_table_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ea50c2efde53784a94170bab2a90db0
+    m_Address: Room/New Pink Room/Final/room_11_window_tree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45249810af5c4ee40bc55579a0d518c7
+    m_Address: Room/New Pink Room/Final/room_11_window_tree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47a7a9b559fb7a04086db3423d789461
+    m_Address: Room/New Pink Room/Final/room_11_sub_table_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c0947707f96dc04b8ce4b29a4f69c81
+    m_Address: Room/New Pink Room/Final/room_11_ceiling_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ce1b25f4454a7944b8e721e72e06db8
+    m_Address: Room/New Pink Room/Final/room_11_curtain_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e3c3f82b15034946887b4997f3c2e31
+    m_Address: Room/New Pink Room/Final/room_11_front_window_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51478e66d43279e4bafa0770f7883912
+    m_Address: Room/New Pink Room/Final/room_11_mini_wall_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51a570b5b46b969489b95ae74be4233c
+    m_Address: Room/New Pink Room/Final/room_11_ceiling_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5216f56a67c27854984f9fd891f23e42
+    m_Address: Room/New Pink Room/Final/room_11_chair_4_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 528fc060f8fcd034fba6e2877ec29adc
+    m_Address: Room/New Pink Room/Final/room_11_chair_3_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52b65b80f4e879d4e943ea6265f644ff
+    m_Address: Room/New Pink Room/Final/room_11_wall_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52cdb79f1b350e646b8dd6d7f138fcb7
+    m_Address: Room/New Pink Room/Final/room_11_ceiling_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 541dd70e704d37542ab2933af1a1f35a
+    m_Address: Room/New Pink Room/Final/room_11_left_window_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54f6435b86d40b9419f30538b5ff3c4d
+    m_Address: Room/New Pink Room/Final/room_11_chair_3_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d47bb8831813ef48a83bfd382cd2bb3
+    m_Address: Room/New Pink Room/Final/room_11_cupboard_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d5635ad20c40254ead76116d7a936af
+    m_Address: Room/New Pink Room/Final/room_11_carpet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5df47987fe1e12743b6251e73a6b70a7
+    m_Address: Room/New Pink Room/Final/11.lamp_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ef4a2a313626c940abf7aa132ced108
+    m_Address: Room/New Pink Room/Final/room_11_chair_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fbe5625c2df3954fad4767c6b9fc40c
+    m_Address: Room/New Pink Room/Final/11_decor_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62331d3234204f741abb0cd527a3492c
+    m_Address: Room/New Pink Room/Final/room_11_front_window_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 678245e9069d70a4fbc7b1e11ab1bed1
+    m_Address: Room/New Pink Room/Final/11.wall_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68de862b73cd5bb4aad3e03dbfc7222c
+    m_Address: Room/New Pink Room/Final/room_11_swing_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aff981dd77d19441b4594a7b4cf6d1d
+    m_Address: Room/New Pink Room/Final/room_11_hanging_lamp_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fc7492cc1c0eab4389a8b5347896ba2
+    m_Address: Room/New Pink Room/Final/room_11_wall_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71b63a013c4894e4d9ed80376d097de0
+    m_Address: Room/New Pink Room/Final/room_11_mini_wall_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7205285c725043b418e9d785335ebc64
+    m_Address: Room/New Pink Room/Final/room_11_floor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75246f06e305c17448feef4becb6f2db
+    m_Address: Room/New Pink Room/Final/room_11_chair_3_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 757d0533c1663604598a5357f1792c73
+    m_Address: Room/New Pink Room/Final/11.top_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75a01c2318d20ef41ab674dd7eb4e2d8
+    m_Address: Room/New Pink Room/Final/room_11_chair_4_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77755e7bdd523c043ad61ad29d84ab22
+    m_Address: Room/New Pink Room/Final/room_11_cupboard_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78a897d7a52eca24abb3ef5246def2ec
+    m_Address: Room/New Pink Room/Final/room_11_sideboard_decor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c9cc585e8053374eb609aa4a2b557aa
+    m_Address: Room/New Pink Room/Final/11.plant_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d9fb8358316b74409388c85fc84107b
+    m_Address: Room/New Pink Room/Final/room_11_curtain_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e8e55c77f2f3ec49b0735fcb78be1bf
+    m_Address: Room/New Pink Room/dec_room_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80b77e4726de5cc49a6b0044e837ae9d
+    m_Address: Room/New Pink Room/Final/room_11_table_decor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82128289b334d544bade202c57ac5b91
+    m_Address: Room/New Pink Room/Final/room_11_swing_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 848589ce60fa70a4c97111c4c7ab7283
+    m_Address: Room/New Pink Room/Final/room_11_lamp_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8520d46168c39d14499d64c5988fc030
+    m_Address: Room/New Pink Room/Final/room_11_swing_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8566174c670ff2f46b55387d43dfb577
+    m_Address: Room/New Pink Room/Final/11.window_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8715681006b645441bdfc6c2c17b420d
+    m_Address: Room/New Pink Room/Final/room_11_sideboard_decor_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88cc613e6275b90478f371ecd9d1d49a
+    m_Address: Room/New Pink Room/Final/room_11_lamp_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ab7c8e39b3d2ca4e9e8ee5b8b4aac43
+    m_Address: Room/New Pink Room/Final/room_11_sub_table_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b72faa88637f3845a04ca7bdc3de1c8
+    m_Address: Room/New Pink Room/Final/room_11_mini_wall_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9eaa66e8b2760504d98e09e46d99798f
+    m_Address: Room/New Pink Room/Final/room_11_decor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ebf05bf12ce4c344b6b02f39f6c2e7b
+    m_Address: Room/New Pink Room/Final/room_11_window_decor_top_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ec4df1cf8568cb4ba3fe26d39c440a9
+    m_Address: Room/New Pink Room/Final/room_11_hanging_lamp_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1abd62df9a9dfa4ca1181ccece9bcd8
+    m_Address: Room/New Pink Room/Final/room_11_carpet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a54ea9f9569c5574586d7232be0bd438
+    m_Address: Room/New Pink Room/Final/11.curtain_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6093887789d7834d915469f8bbd28aa
+    m_Address: Room/New Pink Room/Final/room_11_sideboad_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6e8d09fc0d80f7448716c2dd5e41998
+    m_Address: Room/New Pink Room/Final/room_11_tree_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b55a8bd66ec282b43a597380535ff90b
+    m_Address: Room/New Pink Room/Final/room_11_sideboard_decor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6bf49f75cb80d040baf2445b83f9490
+    m_Address: Room/New Pink Room/Final/room_11_tree_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b910a11c94706d14e9626178374d50b2
+    m_Address: Room/New Pink Room/Final/room_11_wall_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb3561d78c00cdc429fdbc0e813747f6
+    m_Address: Room/New Pink Room/Final/room_11_decor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbd2f125880e1a24f9f6b244af722f2f
+    m_Address: Room/New Pink Room/Final/room_11_carpet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c11205fdfd100714ab92721eef65586b
+    m_Address: Room/New Pink Room/Final/room_11_sideboad_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2cb46e3a69a96546bdc69e0b9596cf2
+    m_Address: Room/New Pink Room/Final/room_11_floor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c748b8d29beedc04b9c2981faa74e1c5
+    m_Address: Room/New Pink Room/Final/room_11_window_decor_top_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c84d3dd5b123710499f039a24a77c8dd
+    m_Address: Room/New Pink Room/Final/room_11_chair_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca52b3db067509640acbc2035957585a
+    m_Address: Room/New Pink Room/Final/room_11_tree_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb5f554010c954543995b20d9f7038c8
+    m_Address: Room/New Pink Room/Final/room_11_table_decor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb73b0cc416ca5f41be3349e44727eaf
+    m_Address: Room/New Pink Room/Final/11.chair_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd801928e5bdbbd4c93ddea5b57feb41
+    m_Address: Room/New Pink Room/Final/room_11_left_window_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf20651b66bf5ab47953baf3a8196b57
+    m_Address: Room/New Pink Room/Final/room_11_table_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf6c6d9e180d1264999366698a2fc754
+    m_Address: Room/New Pink Room/Final/room_11_chair_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2f78d6d5415d1043abf38d9cf419129
+    m_Address: Room/New Pink Room/Final/11.carpet_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d392532603038ea4b8f4d64826d7f33a
+    m_Address: Room/New Pink Room/Final/room_11_window_decor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3d6398e515fdd74c9719d08b78a0aff
+    m_Address: Room/New Pink Room/2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5b5f7a0a8fd9444d9dd2930554ae2cf
+    m_Address: Room/New Pink Room/Final/room_11_lamp_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5ff98459a01e144996a88c61a2cdcf5
+    m_Address: Room/New Pink Room/Final/room_11_mini_wall_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daa0976d345406946bbd1976edcccfc2
+    m_Address: Room/New Pink Room/Final/room_11_lamp_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df03594bba22f034eaa2df4fbe9d247a
+    m_Address: Room/New Pink Room/Final/room_11_window_decor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfa1b11dead95c140a870be2dec00cc9
+    m_Address: Room/New Pink Room/Final/room_11_chair_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfc99cfe689aca24484c03aaf15016c2
+    m_Address: Room/New Pink Room/Final/room_11_front_window_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e007e7b355a45cc47b8e771fc334855b
+    m_Address: Room/New Pink Room/Final/room_11_front_window_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3adfefb8be604a46a90d8a6db302637
+    m_Address: Room/New Pink Room/Final/room_11_sideboad_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9f01084e8f90d943a1522b54ba12414
+    m_Address: Room/New Pink Room/Final/room_11_wall_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef6e698db511a3947ae688ccb1098c37
+    m_Address: Room/New Pink Room/Final/room_11_curtain_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f024de949df7aa0429797000b3c411e9
+    m_Address: Room/New Pink Room/Final/room_11_floor_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb295810fba597342bcbd3b0762365d1
+    m_Address: Room/New Pink Room/Final/room_11_sub_table_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e7089baa89b323469a23bc922dbc16f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1e58ef6d3df675342b196c96ada833a3, type: 2}
+    - {fileID: 11400000, guid: 926545a29f608e24085b850e92440462, type: 2}

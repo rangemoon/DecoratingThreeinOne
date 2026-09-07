@@ -1,0 +1,790 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AA_Room_05
+  m_EditorClassIdentifier: 
+  m_GroupName: AA_Room_05
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5400ca6bff021b44ab25039202dbe78b
+  m_SerializeEntries:
+  - m_GUID: 00d3a26997753d142bacd6cb77b568cc
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_chair_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 018aa60ebbfaac54ea1cac8bedd14b47
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_droplight_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04fa10ecc5980524fa7d63abaf916c71
+    m_Address: Room/5_Work Place/UI/c1_r5_chair_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 057f69b7df71fd847825b0df11014cc9
+    m_Address: Room/5_Work Place/UI/c1_r5_decoration_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0779ed52f6aa64e4d916ab3bc23d2cc9
+    m_Address: Room/5_Work Place/UI/c1_r5_shortcabinet_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0eb58fbdcec8dbc41b1f03a21b23721a
+    m_Address: Room/5_Work Place/UI/c1_r5_drawing_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10d3554eca9dc0d45b43b1d8b0ab4b6e
+    m_Address: Room/5_Work Place/UI/c1_r5_picture_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10f6d0322a484a44ba9d6167900f131c
+    m_Address: Room/5_Work Place/UI/c1_r5_chart_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 144b507f8482dee4197f019e41c68425
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_plant_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1651e29a1f8ed024386bf33b2dd1f7b9
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_light_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17cd60dd8e4e68e4e9969e65640feae9
+    m_Address: Room/5_Work Place/UI/c1_r5_model_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ad7c8c749c075840bac08cb268aafcc
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_computer_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c8a2566cff1f3f46bd42d3c875d7ef4
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_book_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d128da834b08ed4e82593a308fe8f46
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_model_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e276f42c7d041644b0934d92954b2b5
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_computer_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2053c43b120e6bc4dbc8cd23a4ac4158
+    m_Address: Room/5_Work Place/UI/c1_r5_photo_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24580be059a484d4496aa04db1120acf
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_picture_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24924328608e8814e8d362e4060a21af
+    m_Address: Room/5_Work Place/UI/c1_r5_window_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27d8aa2d3554bb34c9b08f24dc2a2585
+    m_Address: Room/5_Work Place/UI/c1_r5_model_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28e34677a06b791419d8edf965362252
+    m_Address: Room/5_Work Place/UI/c1_r5_wall_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a2725d8990196d4082700e50528be23
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_cabinet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a9a10caf60674e49bc2d29243687384
+    m_Address: Room/5_Work Place/UI/c1_r5_plant_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cf983efe99f33f439ac0d8644fa883a
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_window_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d7d26a9b03cb994982f233019f00260
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_table_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f0095b6965f09546bf307b9fca29411
+    m_Address: Room/5_Work Place/UI/c1_r5_cabinet_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f020d3a45e331648a71a9bd26640338
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_chart_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f7497382ea740f4e9713b9ea265e648
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_cabinet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fcf4e466acbf8a4b82bc498b6b6e55e
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_chart_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30282a7c2910645418da43c2cfb655f4
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_decoration_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33d9404afeff6c743ba4f7c2580235b5
+    m_Address: Room/5_Work Place/UI/c1_r5_picture_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33dbd0f58c9fb844a8d7ef261a996947
+    m_Address: Room/5_Work Place/UI/c1_r5_table_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3429049742226724fbbf81b1aec528d5
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_droplight_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e19a7077d508d4e8b26d422d8d7042
+    m_Address: Room/5_Work Place/UI/c1_r5_carpet_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36e8532e022db15439d6a71568ab2497
+    m_Address: Room/5_Work Place/UI/c1_r5_window_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39ffbb82c9f98f5448e6d5abe7ae5f53
+    m_Address: Room/5_Work Place/UI/c1_r5_paper_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b68334043d375d4abae2fe4a570cf60
+    m_Address: Room/5_Work Place/UI/c1_r5_picture_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c662b3051502584586d6f3274fbcb35
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_carpet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d4a77ba4c5204c45bff6723de7b84bf
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_table_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 414f4ec9bef5c1049a3244967491ff99
+    m_Address: Room/5_Work Place/UI/c1_r5_droplight_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41b8abc9c9a6c4f4a926a0757b7962de
+    m_Address: Room/5_Work Place/UI/c1_r5_decoration_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44729fdc5b8830243b86c050ecc11813
+    m_Address: Room/5_Work Place/UI/c1_r5_shortcabinet_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44a59d3c856c3fb47afdb6b561291ea2
+    m_Address: Room/5_Work Place/UI/c1_r5_book_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45b385b00363c6c44bcd290eb1bc4593
+    m_Address: Room/5_Work Place/UI/c1_r5_table_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 483a87772b82494438f1159cb7f50b73
+    m_Address: Room/5_Work Place/UI/c1_r5_carpet_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4be75846d64fa3f489a2a27266705012
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_window_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4be9d09b08920ce44bd4500b971c3cfb
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_carpet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c3305dbc08380245821089eae69f154
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_drawing_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f49df77abb1a8e4181a502fac3d0af8
+    m_Address: Room/5_Work Place/UI/c1_r5_floor_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f648fe798d911b4ab670798acf86a54
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_droplight_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fb243c220119534da7ee57fc512b497
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_cabinet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50d2f0fd5edd164478c2a7492850af29
+    m_Address: Room/5_Work Place/UI/c1_r5_wall_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 524e6b6d4d3171446a049f2e12ea5225
+    m_Address: Room/5_Work Place/UI/c1_r5_chair_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53436f13ec8a0e5469e2cc5e765234a4
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_paper_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 540861bc1d9254f4ab813db16c9ccd02
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_picture_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54f607198dec5d6449e1db48c7b6995a
+    m_Address: Room/5_Work Place/UI/c1_r5_decoration_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56d6989ac848da64696fce9602725f95
+    m_Address: Room/5_Work Place/UI/c1_r5_chair_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57295dc15168a014a9ee472420233786
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_light_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d8ff93b1d8e4e749aac0e25786ea39a
+    m_Address: Room/5_Work Place/UI/c1_r5_floor_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6082ccd522c086f4881708e7eb783738
+    m_Address: Room/5_Work Place/UI/c1_r5_shortcabinet_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60e97d1fab5f993489e497f2e714eec3
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_shortcabinet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61729116525526b4fba6448012592e67
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_model_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 626643981cd616743b20c9c67058caa7
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_model_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64a72e4ceb56ed7499b1102bf9f0038a
+    m_Address: Room/5_Work Place/dec_workplace
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64da61915d0375e44bfffcdb0d8ce685
+    m_Address: Room/5_Work Place/UI/c1_r5_wall_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65ee8386afcfee44780cfb424d4ae92a
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_window_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 671e63020432c4c43aa10e8ea541a43a
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_wall_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 672dd762a8aba0d4ab542a195fdaa6aa
+    m_Address: Room/5_Work Place/UI/c1_r5_plant_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6895a2ba61eca7a439291741da556304
+    m_Address: Room/5_Work Place/UI/c1_r5_table_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 698a54df97d9ea24f8ea96c69dfcfb85
+    m_Address: Room/5_Work Place/UI/c1_r5_plant_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b0a0baa147b3014c96e068cfb8f3b56
+    m_Address: Room/5_Work Place/UI/c1_r5_paper_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71aba8a66176b914987c965433822ea9
+    m_Address: Room/5_Work Place/UI/c1_r5_floor_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 723524e664e824141a2820f9517a422e
+    m_Address: Room/5_Work Place/UI/c1_r5_decoration_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72d42c78d3775fe4198a2d93d483fd36
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_table_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73a07545faba73e459716d66e570c343
+    m_Address: Room/5_Work Place/UI/c1_r5_chair_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7938370db9660764797ebe33210b3626
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_floor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79a6b4987a2b3dd4ebf4a359c6f709d5
+    m_Address: Room/5_Work Place/UI/c1_r5_model_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ae3491574490094b82f0f6322ee910f
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_book_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c195dc6c97a31a4eb617bebce7c15bd
+    m_Address: Room/5_Work Place/UI/c1_r5_droplight_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dbec6dec89b6ac4baf3d4e79d58de50
+    m_Address: Room/5_Work Place/UI/c1_r5_cabinet_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e1d7ee317cd5e6469cd8e4faad809a1
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_plant_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8022880a1bb82284ebaa34b9ca1711cb
+    m_Address: Room/5_Work Place/UI/c1_r5_shortcabinet_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8034a042d94622b489ae5945e6e1fa43
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_decoration_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84961be9f0653734d8f9e8c69b27112b
+    m_Address: Room/5_Work Place/UI/c1_r5_plant_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d22bdfb8152c67498a10f570ff46c9b
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_cabinet_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d73a08e58ef94343ae81f1742884e0c
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_shortcabinet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dec1777306e70940ae7181937125280
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_window_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 920639bb44483a84b8fc6c9018180695
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_floor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9503d55238d3ff442ba57c89274698dd
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_computer_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 968298f161c9afe42b17f061eaf863e3
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_photo_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98d99fe4246993e4f894a1f072db0a8c
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_plant_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a7a4697c68e2c141af07efa4eae6807
+    m_Address: Room/5_Work Place/UI/c1_r5_wall_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9de27b81fb2041545b752e23dac06270
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_decoration_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e2fdf9b23ef0e941af9f7447dff08ef
+    m_Address: Room/5_Work Place/room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fdd1d6be1aa0a146bfec726b21725b9
+    m_Address: Room/5_Work Place/UI/c1_r5_picture_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a42e1bd2c89c9fb4ab2e4176c9c30716
+    m_Address: Room/5_Work Place/UI/c1_r5_chart_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a446468a59e43ff46ab2af34c6794bca
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_light_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6de4f29c502a2d4382f70d44597cd89
+    m_Address: Room/5_Work Place/UI/c1_r5_model_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6ffd934bd5d6fd47822b1789265f7fe
+    m_Address: Room/5_Work Place/UI/c1_r5_photo_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a777cbeb7c5dc4940ad4af22885af275
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_light_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a77eb8a2e499efc4dafca1b95ab633cd
+    m_Address: Room/5_Work Place/UI/c1_r5_photo_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a78592b7cb7cc424f943aabd7a793456
+    m_Address: Room/5_Work Place/UI/c1_r5_book_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a95c1d21b610a9d4bbb348ca2a8a81fc
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_computer_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a96163a6d41109b45bb397b417dd441c
+    m_Address: Room/5_Work Place/UI/c1_r5_paper_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad4f1addd6122b74f9da10a47104b904
+    m_Address: Room/5_Work Place/UI/c1_r5_paper_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad80e8ecf3c98294c8df9c48bc0893d9
+    m_Address: Room/5_Work Place/UI/c1_r5_drawing_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adec383619195f7449d6dae92f650241
+    m_Address: Room/5_Work Place/UI/c1_r5_drawing_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adf581b59afbaac4886fbae8a865c9a9
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_drawing_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adf8988ca66e05c44a441a90b48ae0f7
+    m_Address: Room/5_Work Place/UI/c1_r5_cabinet_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae0a88dfaf442544d83e61dbf5807f44
+    m_Address: Room/5_Work Place/6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeeae55dc00d1954b9d69d9c85d10d64
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_floor_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af78fd4126a336343b6e45e4d72bf786
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_shortcabinet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af84b114f096f02478154ad3764b2054
+    m_Address: Room/5_Work Place/UI/c1_r5_light_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0c644d22fd647b45b2f7ddb8700d467
+    m_Address: Room/5_Work Place/UI/c1_r5_floor_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4544089b8652fb489db54c8571ca289
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_photo_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4e7b56502850834aa63a8a01021fad6
+    m_Address: Room/5_Work Place/UI/c1_r5_drawing_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6ac411de97ac474bbb3c5de23735c00
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_carpet_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7af9ee605739bf49a947fca75fe74d8
+    m_Address: Room/5_Work Place/UI/c1_r5_droplight_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8e4a05ffa1da9d4093b7f6b62531ad2
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_wall_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb2f117cf72751b4e9533478fd129b3e
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_paper_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd3e96ab91aca8b44b97fa005c8c0fa9
+    m_Address: Room/5_Work Place/UI/c1_r5_window_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be1023cfc55897b40852dcb866d9cc7a
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_wall_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf63d4913e038764597d5bd33b8663ee
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_carpet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c017fe07c998bfe4a8d13f8c55ce050a
+    m_Address: Room/5_Work Place/UI/c1_r5_carpet_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6873b7a56101ba4e8d20b61785cf74e
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_floor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c72610a979f844c4d9720831b17d39d5
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_chart_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9ea7100f4cbd0b4690b591567b63e95
+    m_Address: Room/5_Work Place/UI/c1_r5_book_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb9a7b1972ca3964d8b97856c659cd38
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_drawing_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb9f09edd24c7114ea296c4c0970766b
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_book_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc438aabc30d0384da31007881bace67
+    m_Address: Room/5_Work Place/UI/c1_r5_computer_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d076417c9ee8cf44e90e16c1151e1c67
+    m_Address: Room/5_Work Place/UI/c1_r5_photo_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0d2c23dc2e7f5d40860ba9d363f1613
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_chair_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4c8b15837436ac4cadf9b48708e2712
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_wall_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d52192e5a785318409c8a762f7b86c72
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_picture_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5d7acaf895fdff4aa8a07c247b064a6
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_photo_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8545080e52dfa74f8e6d0d45ffdcaa8
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_paper_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d85c1e3099919fa40b0676df43188ea0
+    m_Address: Room/5_Work Place/UI/c1_r5_table_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9d4f06aae943c444a0f99a290322694
+    m_Address: Room/5_Work Place/UI/c1_r5_carpet_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db3f2d005bdb9ee41bb65a52b8f46e67
+    m_Address: Room/5_Work Place/UI/c1_r5_computer_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbbb85bb9ed15214cb30a6a8284c61b5
+    m_Address: Room/5_Work Place/UI/c1_r5_cabinet_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e011e90598ce6b840980222d73c72a43
+    m_Address: Room/5_Work Place/UI/c1_r5_light_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e13850ba452ea7a4eb4a0d95d1abb839
+    m_Address: Room/5_Work Place/UI/c1_r5_light_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2a50d6a434316b4db18067feaeb3a00
+    m_Address: Room/5_Work Place/UI/c1_r5_computer_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3688c8c744a936428e7eb7c55db833c
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_picture_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3d1d5c07389aa94e8129ce7e0091252
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_book_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4a6d8f65861d5e4694e02b770b1032a
+    m_Address: Room/5_Work Place/UI/c1_r5_chart_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed9c6ef41afddb6418d85a7676280620
+    m_Address: Room/5_Work Place/UI/c1_r5_computer_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee129ff183bd90a44ab8e3076476e96c
+    m_Address: Room/5_Work Place/UI/c1_r5_window_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efee41a2a5d2ade488997182d93d8872
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_chair_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0b8ed205099f70408bcf3c5335da245
+    m_Address: Room/5_Work Place/UI/c1_r5_book_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fabe9b4c045d036418820020dc631181
+    m_Address: Room/5_Work Place/Texture2D/c1_r5_table_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbc18c7aaa847c04187e238b59f28942
+    m_Address: Room/5_Work Place/UI/c1_r5_light_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd9d775848413634bb8b487ac55190f6
+    m_Address: Room/5_Work Place/UI/c1_r5_chart_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fefd1505865137c4ba853b443e08ff23
+    m_Address: Room/5_Work Place/UI/c1_r5_droplight_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e7089baa89b323469a23bc922dbc16f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ca739bc3863b9f04abe31f6bf534fe71, type: 2}
+    - {fileID: 11400000, guid: e7307151554084f4ca187e563808e33a, type: 2}

@@ -1,0 +1,375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AA_Room_16
+  m_EditorClassIdentifier: 
+  m_GroupName: AA_Room_16
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 56adbf03c4f660f479eb26c4c02acd2b
+  m_SerializeEntries:
+  - m_GUID: 0312ae507cde4494cb02931e2ff7f395
+    m_Address: Room/PhongTam/Final/bath_room_tuong1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03a763fe552b33642ae312d9687e6342
+    m_Address: Room/PhongTam/Final/bath_room_optuong_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0557fe273baad084eb4b0be7a24bf261
+    m_Address: Room/PhongTam/Final/bath_room_cay_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12ec1b23da3f3d248beafb1a2c3b0bea
+    m_Address: Room/PhongTam/Final/bath_room_decor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1308109d3d850724c8ccb804d9c300ab
+    m_Address: Room/PhongTam/Final/decor_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18466898631839e44a0c2af41d2945f5
+    m_Address: Room/PhongTam/Final/bath_room_gioao_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1889641115b33a04aa29c239fc0b5463
+    m_Address: Room/PhongTam/Final/picture_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1894107b3f0988248b98638f535fea62
+    m_Address: Room/PhongTam/Final/bath_room_tuong_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1970ff28e4129924182c46c1e128629b
+    m_Address: Room/PhongTam/Final/c1_r5_paper_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20c86586fce9b6d40aa8484eeaf4b88e
+    m_Address: Room/PhongTam/Final/bath_room_ghe_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 227b4c24ae0a9954cb143ed7d81428c8
+    m_Address: Room/PhongTam/Final/bath_room_gioao_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24460d5de8c35754dabb0717efe55b2f
+    m_Address: Room/PhongTam/Final/wall_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25f0cefbedb9de5439e69ae2b7ad7980
+    m_Address: Room/PhongTam/Final/bath_room_optuong_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 266c5dbd278b6b146b759e9155aab647
+    m_Address: Room/PhongTam/Final/bath_room_tran_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 266e578054204804a8e0125aac051936
+    m_Address: Room/PhongTam/Final/bath_room_ghe_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2953e5102089b9549bb7c821f84ec5f7
+    m_Address: Room/PhongTam/Final/bath_room_tran_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e3b6f7d0cb94ca40bcb75bbf2e5078a
+    m_Address: Room/PhongTam/Final/bath_room_tranh_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 304e635f9c0ee3d49ac63a0fea799202
+    m_Address: Room/PhongTam/Final/bath_room_tham_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30fe9dcd630546c40abd411e42d48f8e
+    m_Address: Room/PhongTam/Final/carpet_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 320001fd34a91f448a3839f939ac1005
+    m_Address: Room/PhongTam/DesImg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32f37e4184ecf5941b371ecb1729b8f6
+    m_Address: Room/PhongTam/Final/bath_room_san_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e4d62c75daa624caf5c651a1c61734
+    m_Address: Room/PhongTam/Final/bath_room_tran_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36991983ce070754ab2f36b1ac657a12
+    m_Address: Room/PhongTam/Final/z2636146326814_8c573338a89eb625b12fec0d6ce8cadc
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f68c02804d4e214b8b1c99b640d4a32
+    m_Address: Room/PhongTam/Final/bath_room_decor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f763f5798ab70e49b1eba96981ff14c
+    m_Address: Room/PhongTam/Final/bath_room_tuong_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c2ed4cc538f64e4f8bb2ebc08445476
+    m_Address: Room/PhongTam/Final/bath_room_gioao_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ccbb712ce343f3449dac99874b9db14
+    m_Address: Room/PhongTam/Final/bath_room_decor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5507ef5fafefce645bad27a08d346b72
+    m_Address: Room/PhongTam/Final/bath_room_tham_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 571c90a31ac9b3241adf7185cc3f77c0
+    m_Address: Room/PhongTam/dec_bath_room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5eaccf829329e42499631f1ba8d73586
+    m_Address: Room/PhongTam/Final/bath_room_bantreo_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f3b8c1ff159dc345b309415c96a29a1
+    m_Address: Room/PhongTam/Final/bath_room_tuong1_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60dfd8ba3ce3e8b4780e8ea5164ee9cf
+    m_Address: Room/PhongTam/Final/bath_room_nhatam_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 644b8cb4cfe260c43b46348003ceb0d9
+    m_Address: Room/PhongTam/Final/bath_room_bantreo_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 684c714a5634ef54a89a66e9c925c0ef
+    m_Address: Room/PhongTam/Final/window_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bd2584f486c46242bd48939ff917201
+    m_Address: Room/PhongTam/Final/bath_room_tuong1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72b16f052a7529642bc04dc547a19e45
+    m_Address: Room/PhongTam/Final/bath_room_ban_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7761c188169e5694284e356a235c2ed4
+    m_Address: Room/PhongTam/Final/table_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7aafa47d3ab94f942b574c5fb7d1774a
+    m_Address: Room/PhongTam/Final/bath_room_tranh_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7af9e7b8a54a56d45a9108a5dfe4fb3a
+    m_Address: Room/PhongTam/Final/bath_room_tuong_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ef2ed78f9b714d4eaa497102527c13f
+    m_Address: Room/PhongTam/Final/bath_room_san_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 849d04445abad4842ae19d2fabdcf54e
+    m_Address: Room/PhongTam/Final/bath_room_nhatam_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 852b59daa16e3294d8e9c99b09a2feb0
+    m_Address: Room/PhongTam/Final/bath_room_nhatam_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 881c224faabd02a4fbe37e0fefc1fae3
+    m_Address: Room/PhongTam/Final/bath_room_optuong_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89daa91c20b8688459d846bbd4d541fc
+    m_Address: Room/PhongTam/Final/bath_room_mocao_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 900ca6642bdefe647ab972ab9def318c
+    m_Address: Room/PhongTam/Final/bath_room_bantreo_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 910ea585419303044bff39bf0b8b9b66
+    m_Address: Room/PhongTam/Final/bath_room_bontam_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93c836df30f5d6d44aa944c371edcdf4
+    m_Address: Room/PhongTam/Final/bath_room_cua_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99b4b9f65ba13b54dad954aa03307672
+    m_Address: Room/PhongTam/Final/bath_room_tran_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4313986547b1cf4399fa1b15479576b
+    m_Address: Room/PhongTam/Final/bath_room_tham_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8e34f0a7132fbe4c9da2cf3a49f2350
+    m_Address: Room/PhongTam/room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b11b0096488c77e47a37619de2bb182c
+    m_Address: Room/PhongTam/Final/bath_room_mocao_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1c2595520e683046a366a3c2d4b4b77
+    m_Address: Room/PhongTam/Final/bath_room_ghe_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b35e64e9f607a2447803a1131273dcb7
+    m_Address: Room/PhongTam/Final/bath_room_bontam_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6b928e65428e7d4e87261c124117f44
+    m_Address: Room/PhongTam/Final/bath_room_cay_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc005699efef5bf4f889f137c4943cad
+    m_Address: Room/PhongTam/Final/bath_room_tuong1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd7f0ae3e8168484381b965d358ee8bb
+    m_Address: Room/PhongTam/Final/bath_room_cay_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdf263a0be0e0e942bab8e59d9006bf8
+    m_Address: Room/PhongTam/Final/chair_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6e3bd5a77f08024b99af0fa78ac6604
+    m_Address: Room/PhongTam/Final/bath_room_cua_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7242f9616a57f6469ff3eb9a6c3a3e8
+    m_Address: Room/PhongTam/Final/bath_room_optuong_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9f3c2842d476a74ca7c632ab9300213
+    m_Address: Room/PhongTam/Final/bath_room_mocao_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd27a1d0e4ce979488839445b12c339f
+    m_Address: Room/PhongTam/Final/bath_room_ban_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ced3c560307663c4baa62f4b36152658
+    m_Address: Room/PhongTam/Final/bath_room_cua_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d25edea05bb608543b08a08a460ac98a
+    m_Address: Room/PhongTam/Final/bath_room_tuong_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9dd415e90559cb41997b195f674ed5f
+    m_Address: Room/PhongTam/Final/plant_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de2502b25c0e6cc41aad2c3625696f59
+    m_Address: Room/PhongTam/Final/bath_room_san_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec044937982b84547b4b5eba43009c87
+    m_Address: Room/PhongTam/Final/bath_room_tranh_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efcb5ec5f42a48b47be4af0890193b30
+    m_Address: Room/PhongTam/Final/top_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f570916356fbaf1499e8362457b65778
+    m_Address: Room/PhongTam/Final/bath_room_san_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5ee5fc6fb07a794b8cca2d5c030f9c3
+    m_Address: Room/PhongTam/Final/bath_room_ban_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9beb1a88ed0e444291cf8707c4f9735
+    m_Address: Room/PhongTam/Final/bath_room_bontam_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e7089baa89b323469a23bc922dbc16f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 728928280747c1146b29fbd5ed9ecc88, type: 2}
+    - {fileID: 11400000, guid: b78e4f7fc3291214bbac3da9a5dc9797, type: 2}

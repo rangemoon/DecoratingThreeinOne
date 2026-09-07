@@ -1,0 +1,885 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AA_Room_09
+  m_EditorClassIdentifier: 
+  m_GroupName: AA_Room_09
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1a04a027f63d3a645aa8edb58612afdd
+  m_SerializeEntries:
+  - m_GUID: 022c52027486eb14ea67a45137147e38
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sofa_1_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 032a03f0891292148beed5ec5bab38d0
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_parasol_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04de2efdb254b354084606b8beee0f3e
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_light_1_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0501e24a66eca5340bfc22b0563612af
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sofa_1_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07607fbcef85e1a419ed35d228689d8d
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_lamp_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07e5ae12820563f4ab9181688c976b3b
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_chairs_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08a06711ec4cab34ba68d5046859da06
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_balloon_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09d2a2610bddf0e48891d0e995d5a045
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_lamp_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a0ed1aeb280a7d4c9ab667aa1ae0eec
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a40302b303f9a7449ffe3d52b77bb8e
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_lamp_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0be05633fd7f03f4ea08db611ab05cbd
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_handrail_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c3575e022f16184c867e06d16dfc91c
+    m_Address: Room/9_Sky Restaurant/room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f80342ba5cd3ee4ba1dd18ab97f3ffa
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_vase_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10129addeab51354d86226e700890834
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1253aa9eda1caaf408a30412d19461fa
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_grass_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 148ac49f2a0740c4d9364e25a79849b0
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sidetable_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 160edd3665d7e0b47abbc80d8c273a84
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_balloon_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17328b6fb41c0934195eeb8d750362b7
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_balloon_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c4297901f14dec48a438ec171ab22ed
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_bg_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c4e2337b6ddaac40968a10b3580a162
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 250c4dfafd4603e46a335f45efabfdd4
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_floor_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 255a7582c3200f84d83a87004c5ffa12
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_table_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25c6e9c6e4e2e7941a24b5e7f77526b0
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pan_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26485e91df88db947b3fe7cbb271d907
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_candle_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26a28ed7b9967a5418d3bfd342603581
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_balloon_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26e30d335627ce4459ca8655c9a32042
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_tree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27d4f6e4632be354b91dd0c4b2e703e3
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sofa_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29aac5d4d35eee847b040119f5456a05
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_lamp_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29c438713c0156e439149b122204cde7
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_vase_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ba34e4f4145fa9448832fcab0caeb22
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_table_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d5790d06f5f6034e8dec669b9f88297
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_parasol_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32473f2ad7317094d8b2eaf02a1d7504
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_grass_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 327bde0622f89274abcd2faf6ba5a018
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_light_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36e4cd628e7ee894f8bc45e8db42e260
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_food_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 398b4360f49b71042a6ff497af17b2e8
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sidetable_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39dd8a9be8c8f46409af164ab08ecad3
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_table_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b1e3a93ad1896e4aba6f766ddbaaf91
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_grass_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b217e445dc556c4699a997596c0b722
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_handrail_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b3084ba36aad2243970b5e81dc5450d
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c9333b07f934c947b6620f02f74e345
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sofa_1_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e4b6a00fc2d4be4caf157adf1fba185
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_handrail_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43f44c98f314fd64a97170ac73d74251
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_parasol_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44136746e19e8804d8487cd73c4507c2
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_pavilion_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 462e1db1f30528245a3318ee90ce316d
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_bg_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 489a2cb30039e7d48875a32fbaabd873
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_food_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a0be2848af847d4b8278e1b4b5252c8
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a5899d4faf21dc42ada8d0152d1b340
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_music_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bb6cf71575e5bc4c97172724263c16f
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_floor_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d558ee69c05cb1498c11d0e730092b3
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_music_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e6f1100bf6612d44846d894ba9fd44d
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_lamp_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50a869217f93a454c9e9601d68f186e1
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53255c5b014862548acd09d05e236fb2
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53e5b9f870340b9488fdc0629a6a3522
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_table_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53f23d318bade3a44b9b255fdd109d67
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_vase_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57455104a8b152542a12958e83091cfa
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_balloon_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58012b39257746248ab2ea65028b545c
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58dfa14208270884b93b77524a331b5b
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59439dae0817cb34ca770b54f659ea6a
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_light_2_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59ec6e5d58e810840a0a0e1db5ea0162
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_light_2_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a0997772e6fd004eb036872a2509607
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b9d7d93da794ba4a909ca416af61f04
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bf982b0fd57b9f43a2eeeb8868a3392
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ce2ab479d64c3d438a334ace51d4448
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_pan_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d27bef7c0cce11449ceceff7be50eee
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_floor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5de75281249d6a84ba085d73db00f6ff
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_light_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e3381f6ff281f24d82acb576c9c9261
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_food_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e731f80c44d04649a12763590eab7c1
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62233922ba03a064ca5ec0204c10e800
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_pan_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64b182f229fe1704f9fc9fed4ea1a999
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_food_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65efdd819b39cdc4184010eb509d7fd0
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_balloon_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 665b9702901f24d49aa8d1a0dc989a91
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_candle_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67730af4633916c43b4e7ad4b0f38e84
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_chairs_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68894be6fc365574eb4ae6295742e798
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_floor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6af53caf73caf2844a62b607845cb779
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_tree_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b6287cfa2c856042bcb8f02b7e85ecd
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ba2211011c1ab2438cf28049362b4f9
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_bg_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c43ffc36f0ecb548b8da230553c4b00
+    m_Address: Room/9_Sky Restaurant/dec_sky_restaurant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d3bb281fb301224a97114fd86445366
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_handrail_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e2b9363128d5634c8eafe118ec9fec6
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_music_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e745d6a260104349a0267de39d55501
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_pavilion_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71fbaf377fbfcde479a0afb974d3cdfc
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7586ed8d619ae6c4786fe9f488db7fbb
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_light_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76c73078eaabfb840811ecf1607d95ef
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_light_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79bfad4d375ab7f4188529a88af1ec2e
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_pavilion_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7aaf2135dd512984f952e03406a9dfb1
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_flower_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e9bad7008e272845a9587960eb7bb8e
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_floor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 808b8902c3a92c14f9aee80b899222a0
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sofa_2_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83abb6c34f7f5244aa2dc26d32cb0010
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84e5c0aa3e8a6564ca2ba80859f0db7d
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_chairs_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 863f79b5a12602d469ee4c646ea71c0f
+    m_Address: Room/9_Sky Restaurant/10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a6387e69eca48a4f95b056e3ecf35f0
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sofa_2_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8abfe468fb325a840a24b2b03e1e8077
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_table_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e831c2107c67694d8e6f6e3d698bebf
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90b39eeb72a73f844873f3ab52193444
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_grass_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90f4b034c95737c45a1b3558f4bc9ac8
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_food_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91a97f40571ded34ba3c30b33d0db063
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_candle_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9320f89e71dbd894d89998c2c20aa14f
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 932347b3c00d5c2458f97b997682f7e1
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_grass_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 943aa28e3d5362a4a837b20c12d59001
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_bg_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94e408c72ed061f4f929aafcc24d8e8d
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_bg_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 953f0b26f25d296438e9bca8af092f29
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_pan_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9706455c4a4895240a00bb237395dc6f
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98ee904163b184c409454d9af6840a65
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_parasol_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9939abd71a349964d9c56166a9899689
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_tree_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a8843121c9b8704d977b44d3ed997be
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_balloon_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d5c60be3d7022841becb1bf95ec5d18
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pavilion_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ec7b8e1379ca294c84a7ec78e1cf8e5
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_floor_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2d086604a443624ea53b766986ba233
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_pan_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4d92b325ba52ba49b62d38942b3fd9d
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_light_2_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5601381b2681ab4783ae98a4041b7af
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sofa_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a76a98d5f5651fe48bca0080bff42b23
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_vase_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ade1ee3c4317a4c44897a2e5f1213dcb
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_bg_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afde6b91dcfc6a849bc752d81580333c
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_table_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b22866844eaf0254693f963d065807ab
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_bg_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2738b7d7025a7442842b76d9c636777
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_handrail_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b273ca0ccfe8f9142978d5f86d2f8d9a
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_food_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b27607f5ccb81204595c0db7b5550375
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_handrail_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b427ce90f339e2f4db3a89db153ab8b6
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_tree_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4aba1e881340a646b448afb374670fc
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_tree_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6d160d018c9589478f923ec90b768e2
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_candle_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb6e4f692ab2f7f4aa3106ed2af8ac3f
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sidetable_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be9ba059e46b4334b96289874ff4dbc4
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_1_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf28c3348d1979e4c974a998e9369f9e
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pan_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2c90e68942f3394086abc14f8242eec
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2d30f1205e5b3349adc3b18c54a77c9
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_parasol_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c33d9dd2d9d15d84eb9eb0439cdad280
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_vase_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c49b73a4abc6d694393ab1b8a2d0e115
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_pan_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c57c2150c6c46584f89aeba362f72002
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5926cffee6db0f4790d0723fca3bea0
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_grass_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6abd0816a1f19d499b1cd6b279bfeac
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_music_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7c8d9134f8dbbd46b5650e3688d5705
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_tree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb5d248e9bd376e46935ae2d376e59fe
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_flower_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cba3471a1979b9e41b5fff6dd8bb4490
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_light_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc2e775ccb6d4d74393e73f62b6fe91a
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_vase_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd2aeeeac19dc3a449281d48f9e344b6
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_lamp_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf34f500a7ca47547912f5a2b6ba9049
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d375a181d7a6d7e4d9ee6e8396952ca0
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_floor_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3ec04ae596d006499f3b642bcff2192
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d402bfd43d9b3f4448e6276ac4d27897
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sidetable_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5cd46b8c49c3794c819501ff04d383d
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_floor_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6a0a9351390aa74b8b5605d6e403518
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_music_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7715e0c4acfb17478c4f20d213c31f3
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_light_1_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dde4cfb9db6be8a4ebf4ccd811b10b3f
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_table_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e064bae26180f5d4fae770bab4c98e59
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_handrail_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1c456f3271936541be8b275e2e56cf9
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_handrail_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3214eafbd789ca45bd759dbd84f8aba
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_parasol_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3dedd3e3e9fe8e42a60ce2fe70a1dfc
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_flower_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4a4dd1c43ab65a4286dacfafbd405ff
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4b115f1e5797574eb59e74d17222a87
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_light_1_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6bc6688366850d4fa34f862a63ac2f0
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_flower_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e70221667385e6544a508407ff481c43
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_candle_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e774bc746702dca43b4c644741f195b7
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sofa_2_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7a710990c85b444f96d67deb3551eca
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_vase_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9a8558facfff124caae7049d19d4675
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_bg_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9a88fa536c4bf146baf411eae36d390
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sidetable_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb17e7890b69e804fb2248e15cb7ae81
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_light_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efd971ab1f680074f95fdf3e82156964
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_music_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0e1bfdc145ef2f40aa2fdb87875b9de
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_grass_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f172f7e55f9a1f74a85c2ea4ebebcad3
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_light_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1d14d3e04018bb42afcd13e2c9ff57f
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_parasol_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1e19b15e9b146640a95c3c96522e500
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_sidetable_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f309748ebd1f60e47bccb698229bada6
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_lamp_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f34390c164dd8d64b851139add5549cb
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_food_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3dad0ab6cfe8f04a954b586fd621a1d
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_chairs_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4158d8d1b3fd054183a3b577a9e4082
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_flower_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f54dd3c00076d4a4cb51f2c0b87686b0
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_sidetable_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f666baab5acb88d4b9cd0d186fc78858
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_chairs_2_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9d585fc2b8e3db46aed1076cd767bf8
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fae86760a1f60984c94353a4bd1a2c51
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_candle_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fce9d6561a128fc48acde7a7d2230cc4
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_pavilion_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcffa163d51c6194ca4b5352439e07e2
+    m_Address: Room/9_Sky Restaurant/UI/c1_r9_candle_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe9ecf78f34e71e4594669c94a235510
+    m_Address: Room/9_Sky Restaurant/Texture2D/c1_r9_music_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e7089baa89b323469a23bc922dbc16f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ca2eaaf52c361e6489741d3d6fe10368, type: 2}
+    - {fileID: 11400000, guid: 80ab3e3b7c5f0ae4c8566ade17c09183, type: 2}

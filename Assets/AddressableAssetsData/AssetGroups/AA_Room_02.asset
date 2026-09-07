@@ -1,0 +1,415 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AA_Room_02
+  m_EditorClassIdentifier: 
+  m_GroupName: AA_Room_02
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 55a68472f15072f4a87b4ea490d66f8e
+  m_SerializeEntries:
+  - m_GUID: 01f0b161e7110654f9a79bbf69723ac8
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_bed_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06747b858daf2eb40951425b1b07f86b
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_mini_light_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 068cba5fca2cb844b9a52a79439a23b0
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_floor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0736772d19536c04a8fe82bd67b4dfa6
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_picture_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 090280b9146028041b66812aca6e74da
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_wall_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c1c75c2c2c59d549923875eb9c706fc
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_sofa_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1219e27247dc020428f709db506941d5
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r3_cupboard_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13434565d726012498afc3367874b260
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r8_top_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 134a5f9dd9fdf6541bd647e362e063d7
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_tree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 173484e58e4a2444294067b7340598f5
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_wall_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bd5e1e6057944f43af10ddce348be66
+    m_Address: Room/2_NewBedRoom/dec_bedroom
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20c3caaf6b4b3c340b96ae1fcb755a3a
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_lamp_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 312c1a9424758b541acb65fff161ed82
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_bedside_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 321e3f1f19f4a944e9afb636cdcb3491
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_tree_left_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3337338b087d05e478839cce5330022d
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_sofa_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 417764007b68edc46896080d27cfb978
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r3_floor_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 499c73c959a6af74cb1353f7f9c39f2d
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_top_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a1b5d6b6ec1aff43aef444c369e90b5
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_decoration_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bbdb30fec9460f4db200b97cf69c740
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_curtain_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cb530861117ef343b72c275b40745cc
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_curtain_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f854595c0c8c3546a4daa50a5e55887
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_decoration_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54738332a7345c949a66df0a4664e08e
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_mini_decoration_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6352f511f3958f042843b09e41bbd8f4
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_tree_left_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65ab28e2236fa4f47aebed47ec446b53
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_carpet_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 670534c466a09ea4ab60d7180ab3fbfe
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_bed_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 678aae371ca52f74587dad715069ecfa
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_light_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71edd1253c3edd84f81c8fdb3dcd00f1
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_top_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73149d5e2e983e64cbb56dabcc5987b9
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_lamp_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 755f5eaf62cf4a84b936298dfd763622
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_picture_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7568384c0fd8b964c920afa81f8ba33c
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_bedside_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 767918c5f7b39c24189f3df3b6ca5b8d
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_light_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b2ab7747d989a842a0ca1154cbf229e
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_decoration_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b835116617afbd468f5e77a129bf067
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_table_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81d839338a60f7b40b1c6d94600f6b7c
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_bed_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 829fbebc34ba3e7458da796df6d5ac5c
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_mini_light_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 841d8fab38549754cb865139e078a527
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_tree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8654455b60cf3d340a6875380f3aa7df
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_picture_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86cbadd6de4d85741a6d63581d02d849
+    m_Address: Room/2_NewBedRoom/room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8944605099f738e4185ec1286bab71f5
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_wall_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94245245912cd2c4ba391bd0342afc77
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_floor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94aa302db98567c43a87937a30c6cfc9
+    m_Address: Room/2_NewBedRoom/2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95e158b351900e240a90fe5d22dc6530
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_picture_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9616529d1a3642541b49aa61b32040cc
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_lamp_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f346c507ca0ea246b7007961fccb424
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r1_plant_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a20909a8246048244b13b562f753101a
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_top_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a54d2bda39203094898278e17f22bc50
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_mini_light_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa5bceccc22f507409dc12906207c368
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_table_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abb3be459212f1e4e993beadd0f49d6c
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_curtain_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af1a3899ab027fa4fb8125c89ed7ed17
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_floor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b068dd104c231964981fa2ce8fc5427d
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r10_wall_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b546f27b664821f428d97a94a3df8e8a
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_carpet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7d7d786b95a8b648b337fee8ecd1c71
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_mini_decoration_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8aaafdb2c0d8a94eb6dc93e54074c0d
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_window_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b942ce69d07a0524fa42535d30bfc63a
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_bed_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be2fe72f27740a748ab4219c14c8a085
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_bed_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c208452f397002541b31bca94f65ef5c
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_carpet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c60a9011b84c43c42a0396feb72a2906
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r9_sidetable_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8f3bf641817a5f4db8328d08b4b40cd
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_floor_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd8c7d36209123a4fa4592b85b7f5c36
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_table_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce95bb1be44136b42a66a4be5dbb90ab
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_bedside_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2897e4586fafe440a3acbd8329fa72c
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_carpet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4c4c5cd3aeefe449972e5240a7ab59d
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_decoration_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6ee7c0037e4d9148812d5f760d9d2b5
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_top_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d789296bcf0633f4f8e8d030f470bcd0
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_light_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd1d533035887d94e9207f37f52f45bb
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_tree_left_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4922b259d827a3468201e6c15fcdba7
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_window_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6102dadd4929c945a7401fe30028ebf
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r1_curtain_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9660642b70b1df439350cc3c3ebb831
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_window_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb18043b99c5107489591a1290f76a09
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee7d42ad14b43e049ad11e8fd2f6c814
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_table_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef259722df32948468e9bd6fbf40a574
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_light_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2ad1e88695f8294789cb1eda3bd1269
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_mini_decoration_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4003527aa7b5004fb6fd023f38dd1c3
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_wall_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4dd5bd40819dbe489515c93ec36c055
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_table_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f606ebfe9e29c304e8c012e8864c3e60
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r1_rightsofa_icon 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9340688d4b8dc947a80ede6acfbe4ad
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_sofa_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc7fd33611c673b45857de29d85a997f
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_window_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe38fe6c096b7954ba465810fcf61a1a
+    m_Address: Room/2_NewBedRoom/Texture2D/c1_r2_lamp_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e7089baa89b323469a23bc922dbc16f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 036f292981cf43e4dae789014e2091b5, type: 2}
+    - {fileID: 11400000, guid: c15be5bd381bf994ba60f22e3303031e, type: 2}

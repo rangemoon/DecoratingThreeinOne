@@ -1,0 +1,795 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AA_Room_06
+  m_EditorClassIdentifier: 
+  m_GroupName: AA_Room_06
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 94dd5e1e2bd18c64fad8a084760a7b13
+  m_SerializeEntries:
+  - m_GUID: 010ba9d57a9c3d148949d90266a93460
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_bar_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01c45be5938ab8f44b0f3a5861905cb8
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_cabinet_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01d4e6e84e3035541b155f11f7cab1e0
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_drinks_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03d52c5c096a3284aabb63bc4a319061
+    m_Address: Room/6_Modern Bar/UI/c1_r6_plant_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04d5d6cd5ea487448b78c71a543d4962
+    m_Address: Room/6_Modern Bar/UI/c1_r6_barstool_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05f98443b8b47af4180bfa37ab8983aa
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_plant_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08ced581db7d78649a27e86942852420
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_coffee_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09c62a4a02013dc4392a1cd753289162
+    m_Address: Room/6_Modern Bar/UI/c1_r6_chair_2_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a9e64da93750a5409a1a94f8cfa71e5
+    m_Address: Room/6_Modern Bar/UI/c1_r6_barstool_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bbaf5b1d65feff49a367f3af05e11ad
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_drinks_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c2f209bbb03fbc4991b13ba64b853bb
+    m_Address: Room/6_Modern Bar/UI/c1_r6_lamp_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cf1a9993b154aa4987c0c65ba8245df
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_chair_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d15a1f4a371f4048b08239f0893c55e
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_table_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14915cc8adbfd7f4fa8190579c3a497e
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_flowers_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15c31621831d18646b5d9cccf1bbdba7
+    m_Address: Room/6_Modern Bar/UI/c1_r6_picture_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16d41c751795ed142aa8178635ed15da
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_light_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18d39a496ce288843b47166915af3361
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_candle_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1936f838a0bf00d4f9893f32bd20a7d7
+    m_Address: Room/6_Modern Bar/UI/c1_r6_shelf_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ad21abf1deba374fa74481157613796
+    m_Address: Room/6_Modern Bar/UI/c1_r6_light_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2187d7e1f16b66a469c121ba9e2f4808
+    m_Address: Room/6_Modern Bar/UI/c1_r6_wall_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23b361528e3472349b77dbe291db77c4
+    m_Address: Room/6_Modern Bar/UI/c1_r6_coffee_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 263a38f52b389a145b4483668d8376ac
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_chair_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27854869d2d2c04479f2a6dd904f8613
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_light_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2834bce30a1185144903ab1e5ba64b0e
+    m_Address: Room/6_Modern Bar/UI/c1_r6_bar_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a31528b2949d554ebc6e911f5dd5d19
+    m_Address: Room/6_Modern Bar/7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e1ab2d2caee62b46b8e610a82f395e9
+    m_Address: Room/6_Modern Bar/UI/c1_r6_table_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e36a871c2494874696be5acd407f9c3
+    m_Address: Room/6_Modern Bar/UI/c1_r6_light_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f39d2bad00f6064bb67e36939fa9aa0
+    m_Address: Room/6_Modern Bar/UI/c1_r6_fruits_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 307f01fdb452b8e4c9c82217bf9e31d7
+    m_Address: Room/6_Modern Bar/UI/c1_r6_window_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3735be56d5c20274e99575cf17da08e6
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_shelf_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3764dfa3ed3d9db47a290977526fc8be
+    m_Address: Room/6_Modern Bar/UI/c1_r6_floor_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 378f2b4ecf1a30641b225f18c3c00f7a
+    m_Address: Room/6_Modern Bar/UI/c1_r6_table_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b51b37997ef2c84897c975e89daad15
+    m_Address: Room/6_Modern Bar/UI/c1_r6_plant_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b5dd0f07753fad4dafc40d3d34a0793
+    m_Address: Room/6_Modern Bar/UI/c1_r6_drinks_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d7b968b33481a74b86e8535bca982ef
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_floor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e0a3c1d084865046a980686476b436b
+    m_Address: Room/6_Modern Bar/UI/c1_r6_window_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e406ddda52c1fd4aafb2e81d32c5760
+    m_Address: Room/6_Modern Bar/UI/c1_r6_table_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 430b7c38fdcbc064dbf5ae399697c9f3
+    m_Address: Room/6_Modern Bar/UI/c1_r6_floor_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 433cce6d3159dcb4381ac88a0d63dd99
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_shelf_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4552dfaf2e710e2448481d840eff02e5
+    m_Address: Room/6_Modern Bar/UI/c1_r6_candle_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 472eeb01a10cdc34797840ecd34ca7ff
+    m_Address: Room/6_Modern Bar/UI/c1_r6_lamp_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47448dd8d83fca949a08ac38d0a17893
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_barstool_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ba66efc6436c92428de524dd132e9e8
+    m_Address: Room/6_Modern Bar/UI/c1_r6_wall_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e602313e23e0464ea235153f1a5925d
+    m_Address: Room/6_Modern Bar/UI/c1_r6_candle_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 504fa7980bf85cb4e8aec1b4bb0f34b0
+    m_Address: Room/6_Modern Bar/UI/c1_r6_drinks_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52825b1f00dc7e04592e5a3adaf61ea7
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_plant_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53188dfb3e513e34e8950095c7856e10
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_picture_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 536a768b2ea02514aa8cfe869b34390b
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_lamp_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ce79e24e37077458fea8a829ef99f5
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_table_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d21c5b9e675df2438688a4cf9c10371
+    m_Address: Room/6_Modern Bar/UI/c1_r6_lamp_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d6a78719e8eaab4bb8449895efd46a6
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_bar_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ef2d092b3820a74ea7473b5b02d4abe
+    m_Address: Room/6_Modern Bar/UI/c1_r6_barstool_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61245ea643d6e7943a2a7966e9cb4ab6
+    m_Address: Room/6_Modern Bar/UI/c1_r6_picture_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 639bfbc35ab12f94aa8a5ef1878f9e17
+    m_Address: Room/6_Modern Bar/UI/c1_r6_flowers_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65628c42d179916459e2f0ea7ddc7dc5
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_wall_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66d8d59753a3a994cbd1b266454402ca
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_fruits_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69332b59d54c1be4ba5a2e4f33b44d7a
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_window_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b9a3449eb4414c49a0dcac0eb1b45ec
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_picture_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bb81fa4c5a8a1d48ad1e669159a0e6b
+    m_Address: Room/6_Modern Bar/UI/c1_r6_light_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c1a707b110622642af2ae073bc7fbd2
+    m_Address: Room/6_Modern Bar/UI/c1_r6_flowers_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cc05dc715557f64590b4cbc41baf69a
+    m_Address: Room/6_Modern Bar/UI/c1_r6_coffee_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6df1a0a336ebfa147b83d5c8100948a5
+    m_Address: Room/6_Modern Bar/UI/c1_r6_plant_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ffa4992955fb374686e2c079ad5b611
+    m_Address: Room/6_Modern Bar/UI/c1_r6_barstool_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 704cf86940f1ede4ca30c1c690f7a368
+    m_Address: Room/6_Modern Bar/UI/c1_r6_chair_1_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 726bbaf50e544ad4d901870c6c3ec12c
+    m_Address: Room/6_Modern Bar/UI/c1_r6_candle_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74702b4138d304640a58cf24c5b96fb6
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_barstool_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74ad1de53195bfe479f368bbcd12d277
+    m_Address: Room/6_Modern Bar/UI/c1_r6_bar_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74e4b6bc8a52e3c41b488d8232bf643b
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_flowers_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76f810f1c14156d46b90bd75ce8bb4db
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_chair_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7872195c3eff89341a230632bf2c62f0
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_curtain_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b58c7f642f086e42bdda28e1611319b
+    m_Address: Room/6_Modern Bar/UI/c1_r6_flowers_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c2a4edadb93e8742a47cb83f42aa42b
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_drinks_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c6adb4128d02e0459e2172a46fcd52b
+    m_Address: Room/6_Modern Bar/UI/c1_r6_chair_2_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ec72822158dbfe4a96d6c4ec3b86d49
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_light_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 804e79fdf91381645b4ab913b7648282
+    m_Address: Room/6_Modern Bar/UI/c1_r6_chair_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 838feebed1627044299ff4d513668cd7
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_cabinet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83ec1276acfc1ba4e85f84bf7da269f6
+    m_Address: Room/6_Modern Bar/UI/c1_r6_shelf_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856f43484c0d99f47a36874c5c502f65
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_lamp_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89cb58c5f167ba3478de1acd6cfa69fd
+    m_Address: Room/6_Modern Bar/UI/c1_r6_chair_1_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a2f63a0c934895488fcdddeddcacd74
+    m_Address: Room/6_Modern Bar/UI/c1_r6_curtain_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a3d41550381bb64d8650edc8b6fcf4b
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_bar_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e83b9115a3788e419846769d0c1fbf6
+    m_Address: Room/6_Modern Bar/UI/c1_r6_wall_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9111635fc5dcbc74f9742729a4c3e7d9
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_candle_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9221e27f5bfb9c843a1638b48e463a19
+    m_Address: Room/6_Modern Bar/UI/c1_r6_plant_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94506a2afdc263345a8369d0c69c4610
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_candle_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 980162dcac0aff344bc5e983ef4181ee
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_fruits_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99951bf5be4f8ae4ca9d5f3ea5fa9599
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_wine_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c503b89a319ea64cb032614ae5a8b81
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_coffee_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cc00a0c4c7f1ea4790761c1415cd196
+    m_Address: Room/6_Modern Bar/UI/c1_r6_table_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9df131eb013314e469ca73583af3ce13
+    m_Address: Room/6_Modern Bar/UI/c1_r6_wall_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f01a8d6472164947893adc03765de99
+    m_Address: Room/6_Modern Bar/UI/c1_r6_window_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1113fe3aadefa14285654595c330be7
+    m_Address: Room/6_Modern Bar/UI/c1_r6_cabinet_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a196be4df4f312d45bc20e633a26b6b3
+    m_Address: Room/6_Modern Bar/UI/c1_r6_coffee_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3523722067fd714c9d722642fbc2508
+    m_Address: Room/6_Modern Bar/UI/c1_r6_window_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a98b1e771ebfacf49a283b56986f789f
+    m_Address: Room/6_Modern Bar/UI/c1_r6_chair_2_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa41d4bc70a69c04da251333b66e5cdc
+    m_Address: Room/6_Modern Bar/UI/c1_r6_fruits_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa67e833b898e2646b35e390a29fa62e
+    m_Address: Room/6_Modern Bar/UI/c1_r6_floor_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab592a59e7895634fb52e42f226faf23
+    m_Address: Room/6_Modern Bar/UI/c1_r6_wine_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af6a0adfcf401d841b02660ef9adf519
+    m_Address: Room/6_Modern Bar/UI/c1_r6_curtain_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0d49c940612bb448a14a308fee6695c
+    m_Address: Room/6_Modern Bar/dec_modern_bar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b39733d6d46fafb4ba8f26eca42a972d
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_fruits_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4c917abd5257794680c9b45fdc0a4d8
+    m_Address: Room/6_Modern Bar/UI/c1_r6_lamp_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b503f67cda4482b45b28009ee95c232e
+    m_Address: Room/6_Modern Bar/UI/c1_r6_cabinet_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b574952aa7b407a48bffc8a17e506be5
+    m_Address: Room/6_Modern Bar/UI/c1_r6_wine_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6fa54b58b472c34a8faf54159d7d856
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_window_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b741be2c43123134d9e5b2553b6a97bc
+    m_Address: Room/6_Modern Bar/UI/c1_r6_wine_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8646ce014efad048bbbc5ec49579dda
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_table_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b971e7e03b10b1e409b2acaf9832b5c3
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_wine_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb018a38ad04bd244a680e59a209a013
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_floor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb1afd406a8fe614a884b29ba1f1f327
+    m_Address: Room/6_Modern Bar/UI/c1_r6_fruits_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc028c7371db30742abe9477b769c040
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_wall_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc08ca61429ace840ab4acd51520f938
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_wine_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdb880f325f1b774aaa0ff4ebd7c0478
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_lamp_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be51a1f9ea61a3b459c6062975815045
+    m_Address: Room/6_Modern Bar/UI/c1_r6_cabinet_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf657a5e405914e4394889dfbf3f97db
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_picture_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c642d25d52b4bc84fa4efd86c703a227
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_wall_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6b7c2f326f14d5418d6b3f0211578b0
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_window_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9d5112ab9c39034ba96efb430b5484b
+    m_Address: Room/6_Modern Bar/UI/c1_r6_cabinet_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9e9b925156933f4aab225264ec4cd5f
+    m_Address: Room/6_Modern Bar/UI/c1_r6_shelf_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb0cc66480555454a964ef4dc7f0385d
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_cabinet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbaa600228cddb849acf5efa93bc3a7a
+    m_Address: Room/6_Modern Bar/UI/c1_r6_light_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccf35743f6176d941a1210cd5d5d8e13
+    m_Address: Room/6_Modern Bar/UI/c1_r6_candle_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd6ab8e2720056245b8d759222545aa9
+    m_Address: Room/6_Modern Bar/UI/c1_r6_curtain_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0c5a634939a7c84bb66fcf774fb2e87
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_window_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2038085a17a98a41865b2f50c55630f
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_chair_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d20f7339cecbeea4887035bc20e7ff69
+    m_Address: Room/6_Modern Bar/UI/c1_r6_drinks_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3da34dee70214341889792e71521c21
+    m_Address: Room/6_Modern Bar/UI/c1_r6_fruits_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d427db4a054219e41ba1076b7ae14659
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_plant_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d479ebe83900f984b8e06e7def5ad94e
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_flowers_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d55dc8aed9c57a445b9eed35d6d90634
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_bar_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9e49ef9d6ece894ab0c2f85c736a35e
+    m_Address: Room/6_Modern Bar/UI/c1_r6_floor_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbbdbd555b3831c44b48f82a3439f96e
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_cabinet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc69c6d2049a89c408f82262a35a48f8
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_chair_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dce753dbb7dc6d84f8c19a08e28b16cd
+    m_Address: Room/6_Modern Bar/UI/c1_r6_drinks_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de0e5aa4919bf714287c19470e8b8406
+    m_Address: Room/6_Modern Bar/UI/c1_r6_coffee_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de364a77c061487449d143519d8be299
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_shelf_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e20654e06dcb0aa4a91e96e4ba41c4cc
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_chair_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3b15bf1aff6c5148a960034bb44917e
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_wall_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e566f2f32534c0549ae5482721e57524
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_floor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6cf489b63daa7349ae083eaaaa3fbe0
+    m_Address: Room/6_Modern Bar/UI/c1_r6_chair_1_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e89a987f333ebec48a531529a5cf43df
+    m_Address: Room/6_Modern Bar/UI/c1_r6_curtain_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecbe9bfaae6016c40a121ffb34a4dcb7
+    m_Address: Room/6_Modern Bar/UI/c1_r6_bar_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed2658cb5025d7a4090ee43993241fa0
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_coffee_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee23dffafadaab54a94cf9732fae8932
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_floor_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef5d31f216e968a42a9941b0bef9bd42
+    m_Address: Room/6_Modern Bar/UI/c1_r6_shelf_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efede60245726154ca8fd24ce24df69e
+    m_Address: Room/6_Modern Bar/UI/c1_r6_wine_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2df8d3cec8964d499f75bedde764461
+    m_Address: Room/6_Modern Bar/UI/c1_r6_flowers_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f387f40b8ae8ec04392a3a3f25026425
+    m_Address: Room/6_Modern Bar/UI/c1_r6_picture_1_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f47adf23a62b8e44ebb1f21418a5d3d9
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_barstool_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f85172192a68345459d7c685775e6d10
+    m_Address: Room/6_Modern Bar/room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f884e5b0463f39a40bc70d48169a1fcd
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_curtain_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f968ae4885c0f084b9db6bd03dd34cc6
+    m_Address: Room/6_Modern Bar/UI/c1_r6_bar_3_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcf0eda19b6de22439a3a693ba854d20
+    m_Address: Room/6_Modern Bar/Texture2D/c1_r6_curtain_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fff462fca013d9a4f9f6443f46c0e511
+    m_Address: Room/6_Modern Bar/UI/c1_r6_picture_2_mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e7089baa89b323469a23bc922dbc16f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 24e64baf1eb01b941b2c37879a973451, type: 2}
+    - {fileID: 11400000, guid: 3e6e6532d132b264f8457be6424685a5, type: 2}

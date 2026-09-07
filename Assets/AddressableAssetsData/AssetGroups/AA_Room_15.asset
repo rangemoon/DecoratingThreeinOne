@@ -1,0 +1,445 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AA_Room_15
+  m_EditorClassIdentifier: 
+  m_GroupName: AA_Room_15
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 29c68b877d5b9c145a7c8f62131e768d
+  m_SerializeEntries:
+  - m_GUID: 041fc042bae06db45adddfbbbc02658e
+    m_Address: Room/New garden 2/Final/room_13_sub_chair_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05dd37c14b83ead4dba060e06f21713b
+    m_Address: Room/New garden 2/Final/room_13_wall_tree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06138d1a5e564fb499b4626209f944a7
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_4_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 073220a3ef3b1d34ba627ed19e77c7d7
+    m_Address: Room/New garden 2/3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0734aa2a12ab56f4a9f7241db54cd6d6
+    m_Address: Room/New garden 2/Final/13.wall_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08139e3f9efed2940b1872748a7cdc24
+    m_Address: Room/New garden 2/Final/room_13_parapet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0963437f825fb074081cac8cce123420
+    m_Address: Room/New garden 2/dec_restaurant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1291a4e0967b9a54fb5f42715829eebb
+    m_Address: Room/New garden 2/Final/room_13_lamp_3_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 165033581092bac46b8abc5be3d9d4e5
+    m_Address: Room/New garden 2/Final/room_13_table_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ff2d99beeb85b141b9bc4e5071b121f
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_3_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21d5d68d79c12e54f8a74cb17919a22c
+    m_Address: Room/New garden 2/Final/room_13_wall_tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2581ced49dc097947a1a4c83d3aa9f46
+    m_Address: Room/New garden 2/Final/room_13_chair_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26457b7c107c3e74d81b80894282fde0
+    m_Address: Room/New garden 2/Final/room_13_table_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 288f772212732854fb2be5c42256394d
+    m_Address: Room/New garden 2/Final/room_13_lamp_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bb4926900796db49a8609571f222ee7
+    m_Address: Room/New garden 2/Final/room_13_right_tree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e2264d74c0a76748b01c1ce8bf5eded
+    m_Address: Room/New garden 2/Final/room_13_decor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33027b781586eaa47a4554fe0cb97bbc
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 345c7ff4101204e43b05f5f34e8eb299
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_4_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 369f822507822e44f8a6b1c3bcb76e9c
+    m_Address: Room/New garden 2/Final/13.candle_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bbd164a2a8d0dd48ac689d37cfb6be4
+    m_Address: Room/New garden 2/Final/sky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4079297c600aef542ac6f492f457d515
+    m_Address: Room/New garden 2/Final/room_13_lamp_4_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43f8dcaa47a589d4e818ea3e0a8a33fe
+    m_Address: Room/New garden 2/Final/room_13_chair_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45d300c94073e3e4dba913f2763691e5
+    m_Address: Room/New garden 2/Final/room_13_left_tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49624ea9eff6e604f9a4d35f5453a827
+    m_Address: Room/New garden 2/Final/room_13_wall_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 507b2a46e6063b749aff3d2d1b3928b4
+    m_Address: Room/New garden 2/Final/13.vase_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 514bc03036468b24e819b8837818958b
+    m_Address: Room/New garden 2/Final/room_13_lamp_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53e1c235559a75843a83bfb039ab5854
+    m_Address: Room/New garden 2/Final/room_13_lamp_2_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55e88c533af1a1a448f001b7b6735069
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 576a0d99363a31841bd7ca5504190b15
+    m_Address: Room/New garden 2/Final/room_13_carpet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58d6ba201985e5e499d08c6f417f64da
+    m_Address: Room/New garden 2/Final/room_13_chair_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 595f02fbc169269469afe6ef8e684f15
+    m_Address: Room/New garden 2/Final/room_13_wall_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b644362b9214494499b03032e10b68f
+    m_Address: Room/New garden 2/Final/room_13_ceramics_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dd2611480c091b448dd3994e1582157
+    m_Address: Room/New garden 2/Final/room_13_wall_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6038b13cea431874c917c8fe8ac76d1d
+    m_Address: Room/New garden 2/Final/13.plant_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65ceab9e12de30749916e08f314c62f8
+    m_Address: Room/New garden 2/Final/room_13_sub_chair_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 695f4b125bd5f72438ebf03ced62ff7d
+    m_Address: Room/New garden 2/Final/room_13_ceramics_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6acd28df0f37264459926390bd762d55
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_1_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e58957c4e029c34d92fe168a804d64d
+    m_Address: Room/New garden 2/Final/room_13_right_tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 716840e9527faf5498a0972893005870
+    m_Address: Room/New garden 2/Final/room_13_parapet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7353689f444242a4f819b3e6bc09a50f
+    m_Address: Room/New garden 2/Final/room_13_ground_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73720705448efc048b64ac30505d9b36
+    m_Address: Room/New garden 2/Final/13.lamp_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 777843f1853c7cf4c8b364fd24cee449
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77bd6101c60f0a64792df73a45459715
+    m_Address: Room/New garden 2/room
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 786f775e378dd0f4492539b61a8250dd
+    m_Address: Room/New garden 2/Final/room_13_sub_tree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d875bc4c541fb74daef9a9954a72560
+    m_Address: Room/New garden 2/Final/room_13_parapet_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83f92b56b2f020d4fb54b27e87358775
+    m_Address: Room/New garden 2/Final/room_13_table_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84fbc6ccf289fba43ac24bc7fb724f98
+    m_Address: Room/New garden 2/Final/13.tree_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86676813d1c531b48bd359c48c239c8b
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 881472c72e2b0b241906a64610fdcfef
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_3_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dd8f823a192e624aa3e896d3a2f22ce
+    m_Address: Room/New garden 2/Final/13_decor_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ead6f9d5efd08647bd44b06396d2706
+    m_Address: Room/New garden 2/Final/room_13_lamp_1_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f8160772065d9a44b20973bad232563
+    m_Address: Room/New garden 2/Final/room_13_lamp_4_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 912b47b6c305e3c4ca0dab18e1eab522
+    m_Address: Room/New garden 2/Final/room_13_decor_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 922cc1d229b5d9e4c959b8f2e9a5c7e0
+    m_Address: Room/New garden 2/Final/room_13_right_tree_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 935638e83904904499d5691c253d3479
+    m_Address: Room/New garden 2/Final/room_13_ground_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93c9311e62ca7b04b8cb091ce11900a4
+    m_Address: Room/New garden 2/Final/room_13_parapet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bf4dd2ca1aa1544085a942abd84d28c
+    m_Address: Room/New garden 2/Final/room_13_ground_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cd00c7d78d8f6842a2117fd6aa3bb32
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f6d6b519a8d18445a7091c3a45b97a5
+    m_Address: Room/New garden 2/Final/room_13_table_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afe56ae3ae5a7d44c83771a24fe6565a
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_3_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b25bad6c69e15004eb6ae3d3c8e70b41
+    m_Address: Room/New garden 2/Final/room_13_lamp_2_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3eb5c6695c641b4ea95d25fe28dd45a
+    m_Address: Room/New garden 2/Final/13.table_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b78901848e9b19d43b6a982eb0d0e55b
+    m_Address: Room/New garden 2/Final/room_13_wall_tree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9b65301acac59049822d667125936f9
+    m_Address: Room/New garden 2/Final/room_13_lamp_3_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c08f709b57c97974c8944af15f4ef54d
+    m_Address: Room/New garden 2/Final/room_13_right_tree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9707e97402c8374fb447c02a91bfbcd
+    m_Address: Room/New garden 2/Final/room_13_lamp_3_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc3a9d4441a655746863fe59c5593955
+    m_Address: Room/New garden 2/Final/room_13_chair_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce7a10f9db8f4a8489f1615e12a42772
+    m_Address: Room/New garden 2/Final/room_13_sub_tree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfe84a74b69a90348be1186a314faf17
+    m_Address: Room/New garden 2/Final/13.top_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d47a9de3e653dd04aa3c93e8ecf2030a
+    m_Address: Room/New garden 2/Final/room_13_left_tree_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d516398799348d5409d4e016d378f3b4
+    m_Address: Room/New garden 2/Final/room_13_wall_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d737bdde65434c74cb98bf74c23c0343
+    m_Address: Room/New garden 2/Final/room_13_ground_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9374a3cf5030424384eb65c9f6a5bb3
+    m_Address: Room/New garden 2/Final/room_13_carpet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daf181abca11e0b409c4bc1fb5465ad1
+    m_Address: Room/New garden 2/Final/room_13_lamp_4_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddb88bdfd768ed8458f5cbcce5f86b0a
+    m_Address: Room/New garden 2/Final/room_13_lamp_2_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e06a4c18e30affa4189fc083e951fd9c
+    m_Address: Room/New garden 2/Final/room_13_ceramics_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e12f1f26092b33044b57be08cb3df5c0
+    m_Address: Room/New garden 2/Final/room_13_sub_chair_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee34f2fe672560b47838a6f2bd15de13
+    m_Address: Room/New garden 2/Final/room_13_carpet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f121c065737826840a57508593965f31
+    m_Address: Room/New garden 2/Final/room_13_left_tree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5c473bdc29dc344ebdab135ec31ea27
+    m_Address: Room/New garden 2/Final/room_13_left_tree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8e7d8ddab3846746a8343cd69445d54
+    m_Address: Room/New garden 2/Final/13.chair_icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9596c04e936c704597eab56d3a3a7be
+    m_Address: Room/New garden 2/Final/room_13_sub_tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faad7a59267601f47830e732120a3198
+    m_Address: Room/New garden 2/Final/room_13_decor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbf7f5f6b9850054a8abe8aa14dd0832
+    m_Address: Room/New garden 2/Final/room_13_flower_bush_4_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e7089baa89b323469a23bc922dbc16f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 98748de68fbedbd48ac099b8eb5dc906, type: 2}
+    - {fileID: 11400000, guid: 9bcd8929aad1f8241a0593f39afd12be, type: 2}

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translation key="KEY">
+    <Language>Chinese</Language>
+  </Translation>
+  <!-- Chinese translations -->
+  <Translation key="play">
+    <Value>开始游戏</Value>
+  </Translation>
+  <Translation key="starter_pack">
+    <Value>新手礼包</Value>
+  </Translation>
+  <Translation key="weekend_sale">
+    <Value>周末特惠</Value>
+  </Translation>
+  <Translation key="monthly_pack">
+    <Value>月度礼包</Value>
+  </Translation>
+  <Translation key="full">
+    <Value>已满</Value>
+  </Translation>
+  <Translation key="continue">
+    <Value>点击继续</Value>
+  </Translation>
+  <Translation key="setting">
+    <Value>设置</Value>
+  </Translation>
+  <Translation key="loading">
+    <Value>加载中...</Value>
+  </Translation>
+  <Translation key="no_thank">
+    <Value>不用了，谢谢</Value>
+  </Translation>
+  <Translation key="or">
+    <Value>或</Value>
+  </Translation>
+  <Translation key="skip">
+    <Value>跳过</Value>
+  </Translation>
+  <Translation key="room">
+    <Value>房间</Value>
+  </Translation>
+  <Translation key="room_name_1">
+    <Value>客厅</Value>
+  </Translation>
+  <Translation key="room_desc_1">
+    <Value>从温馨又时尚的客厅开始吧</Value>
+  </Translation>
+  <Translation key="room_name_2">
+    <Value>卧室</Value>
+  </Translation>
+  <Translation key="room_desc_2">
+    <Value>阳光洒进窗户的温馨卧室</Value>
+  </Translation>
+  <Translation key="room_name_3">
+    <Value>阁楼卧室</Value>
+  </Translation>
+  <Translation key="room_desc_3">
+    <Value>为客户打造一间令人惊艳的阁楼卧室，让爱在这里悄然生长</Value>
+  </Translation>
+  <Translation key="room_name_4">
+    <Value>空中花园</Value>
+  </Translation>
+  <Translation key="room_desc_4">
+    <Value>贝拉的花园处处洋溢着创意</Value>
+  </Translation>
+  <Translation key="room_name_5">
+    <Value>百合花园</Value>
+  </Translation>
+  <Translation key="room_desc_5">
+    <Value>感受百合花园的甜美魅力</Value>
+  </Translation>
+  <Translation key="room_name_6">
+    <Value>现代酒吧</Value>
+  </Translation>
+  <Translation key="room_desc_6">
+    <Value>打造一间充满现代气息的迷人酒吧</Value>
+  </Translation>
+  <Translation key="room_name_7">
+    <Value>豪华餐厅</Value>
+  </Translation>
+  <Translation key="room_desc_7">
+    <Value>亲手设计一间豪华餐厅，享受焕然一新的成就感</Value>
+  </Translation>
+  <Translation key="room_name_8">
+    <Value>现代厨房</Value>
+  </Translation>
+  <Translation key="room_desc_8">
+    <Value>在现代奢华的厨房中尽情施展创意</Value>
+  </Translation>
+  <Translation key="room_name_9">
+    <Value>空中餐厅</Value>
+  </Translation>
+  <Translation key="room_desc_9">
+    <Value>空中餐厅是举办浪漫晚宴的理想之地</Value>
+  </Translation>
+  <Translation key="room_name_10">
+    <Value>儿童房</Value>
+  </Translation>
+  <Translation key="room_desc_10">
+    <Value>温馨可爱的粉色儿童房</Value>
+  </Translation>
+  <Translation key="room_name_11">
+    <Value>惠子的客厅</Value>
+  </Translation>
+  <Translation key="room_desc_11">
+    <Value>打造一间独具风格的客厅，体验设计的乐趣</Value>
+  </Translation>
+  <Translation key="room_name_13">
+    <Value>设计工作室</Value>
+  </Translation>
+  <Translation key="room_desc_13">
+    <Value>走进创意设计师的专属工作空间</Value>
+  </Translation>
+  <Translation key="room_name_14">
+    <Value>作品展厅</Value>
+  </Translation>
+  <Translation key="room_desc_14">
+    <Value>现代展厅彰显着设计师的独特个性</Value>
+  </Translation>
+  <Translation key="more_stamina">
+    <Value>获取更多体力</Value>
+  </Translation>
+  <Translation key="new_life_in">
+    <Value>体力恢复倒计时：</Value>
+  </Translation>
+  <Translation key="ads_for_life">
+    <Value>观看视频获得1点体力</Value>
+  </Translation>
+  <Translation key="refill">
+    <Value>补满</Value>
+  </Translation>
+  <Translation key="more_coins">
+    <Value>获取更多金币</Value>
+  </Translation>
+  <Translation key="complete_level_coin">
+    <Value>完成关卡即可获得金币</Value>
+  </Translation>
+  <Translation key="remove_ad">
+    <Value>移除广告</Value>
+  </Translation>
+  <Translation key="hate_ad">
+    <Value>不想被广告打断？立即移除广告</Value>
+  </Translation>
+  <Translation key="fun">
+    <Value>玩得开心吗？</Value>
+  </Translation>
+  <Translation key="rate">
+    <Value>喜欢这款游戏吗？给我们五星好评吧！</Value>
+  </Translation>
+  <Translation key="14star">
+    <Value>1-4星</Value>
+  </Translation>
+  <Translation key="5star">
+    <Value>5星</Value>
+  </Translation>
+  <Translation key="quit_game">
+    <Value>退出游戏</Value>
+  </Translation>
+  <Translation key="ask_quit">
+    <Value>确定要退出游戏吗？</Value>
+  </Translation>
+  <Translation key="resume">
+    <Value>继续游戏</Value>
+  </Translation>
+  <Translation key="quit">
+    <Value>退出</Value>
+  </Translation>
+  <Translation key="daily_task">
+    <Value>每日任务</Value>
+  </Translation>
+  <Translation key="reset_in">
+    <Value>刷新倒计时：</Value>
+  </Translation>
+  <Translation key="complete_task">
+    <Value>完成所有任务即可获得特别奖励</Value>
+  </Translation>
+  <Translation key="task_point">
+    <Value>任务积分</Value>
+  </Translation>
+  <Translation key="task_use_move">
+    <Value>使用xxx次+3步道具</Value>
+  </Translation>
+  <Translation key="task_use_rocket">
+    <Value>使用xxx次火箭道具</Value>
+  </Translation>
+  <Translation key="task_use_bomb">
+    <Value>使用xxx次炸弹道具</Value>
+  </Translation>
+  <Translation key="task_use_headstart">
+    <Value>使用xxx次开局道具</Value>
+  </Translation>
+  <Translation key="task_use_shuffle">
+    <Value>使用xxx次洗牌道具</Value>
+  </Translation>
+  <Translation key="task_use_hammer">
+    <Value>使用xxx次魔法锤</Value>
+  </Translation>
+  <Translation key="task_use_vrocket">
+    <Value>使用xxx次纵向火箭</Value>
+  </Translation>
+  <Translation key="task_use_hrocket">
+    <Value>使用xxx次横向火箭</Value>
+  </Translation>
+  <Translation key="task_use_candy">
+    <Value>使用xxx次糖果炸弹</Value>
+  </Translation>
+  <Translation key="task_trigger_vrocket">
+    <Value>触发xxx次纵向火箭</Value>
+  </Translation>
+  <Translation key="task_trigger_hrocket">
+    <Value>触发xxx次横向火箭</Value>
+  </Translation>
+  <Translation key="task_trigger_bomb">
+    <Value>触发xxx次炸弹</Value>
+  </Translation>
+  <Translation key="task_trigger_rainbow">
+    <Value>触发xxx次彩虹宝石</Value>
+  </Translation>
+  <Translation key="task_clear_level">
+    <Value>通关xxx关</Value>
+  </Translation>
+  <Translation key="task_earn_gem">
+    <Value>获得xxx颗宝石</Value>
+  </Translation>
+  <Translation key="task_decor">
+    <Value>装饰xxx件物品</Value>
+  </Translation>
+  <Translation key="task_spend_gem">
+    <Value>花费xxx颗宝石</Value>
+  </Translation>
+  <Translation key="task_lose_level">
+    <Value>挑战失败xxx次</Value>
+  </Translation>
+  <Translation key="task_win_streak">
+    <Value>连续通关xxx关</Value>
+  </Translation>
+  <Translation key="task_win_5moves">
+    <Value>以剩余5步以上的成绩通关xxx关</Value>
+  </Translation>
+  <Translation key="buy">
+    <Value>购买</Value>
+  </Translation>
+  <Translation key="bomb_name">
+    <Value>宝石炸弹</Value>
+  </Translation>
+  <Translation key="bomb_guide">
+    <Value>宝石炸弹会爆炸并清除周围的宝石和障碍</Value>
+  </Translation>
+  <Translation key="hammer_name">
+    <Value>魔法锤</Value>
+  </Translation>
+  <Translation key="hammer_guide">
+    <Value>魔法锤可以直接消除任意宝石或障碍</Value>
+  </Translation>
+  <Translation key="h_rocket_name">
+    <Value>横向火箭</Value>
+  </Translation>
+  <Translation key="h_rocket_guide">
+    <Value>横向火箭会清除整行的宝石和障碍</Value>
+  </Translation>
+  <Translation key="v_rocket_name">
+    <Value>纵向火箭</Value>
+  </Translation>
+  <Translation key="v_rocket_guide">
+    <Value>纵向火箭会清除整列的宝石和障碍</Value>
+  </Translation>
+  <Translation key="piggy_bank">
+    <Value>宝石储蓄罐</Value>
+  </Translation>
+  <Translation key="piggy_bank_guide">
+    <Value>通关即可向储蓄罐存入宝石。存满至少300颗后开启储蓄罐，领取丰厚宝石奖励！</Value>
+  </Translation>
+  <Translation key="piggy_bank_full">
+    <Value>储蓄罐已满，快打开它领取奖励吧！</Value>
+  </Translation>
+  <Translation key="continue_decorate">
+    <Value>继续装饰房间即可解锁</Value>
+  </Translation>
+  <Translation key="get_more_gems">
+    <Value>获取更多宝石</Value>
+  </Translation>
+  <Translation key="champion_pack">
+    <Value>冠军礼包</Value>
+  </Translation>
+  <Translation key="legend_pack">
+    <Value>传奇礼包</Value>
+  </Translation>
+  <Translation key="master_pack">
+    <Value>大师礼包</Value>
+  </Translation>
+  <Translation key="best_value">
+    <Value>超值之选</Value>
+  </Translation>
+  <Translation key="most_popular">
+    <Value>最受欢迎</Value>
+  </Translation>
+  <Translation key="level">
+    <Value>关卡</Value>
+  </Translation>
+  <Translation key="select_booster">
+    <Value>选择道具</Value>
+  </Translation>
+  <Translation key="out_of_moves">
+    <Value>步数用完了！</Value>
+  </Translation>
+  <Translation key="you_lose">
+    <Value>哎呀！你还需要收集</Value>
+  </Translation>
+  <Translation key="play_on">
+    <Value>继续游戏</Value>
+  </Translation>
+  <Translation key="target">
+    <Value>目标</Value>
+  </Translation>
+  <Translation key="give_up">
+    <Value>放弃</Value>
+  </Translation>
+  <Translation key="give_up_cost">
+    <Value>放弃将消耗1点体力</Value>
+  </Translation>
+  <Translation key="re_play">
+    <Value>重新挑战</Value>
+  </Translation>
+  <Translation key="home_menu">
+    <Value>返回主页</Value>
+  </Translation>
+  <Translation key="free_gems_today">
+    <Value>今日免费宝石</Value>
+  </Translation>
+  <Translation key="get_it">
+    <Value>立即领取</Value>
+  </Translation>
+  <Translation key="daily_reward">
+    <Value>每日奖励</Value>
+  </Translation>
+  <Translation key="day">
+    <Value>天</Value>
+  </Translation>
+  <Translation key="reward">
+    <Value>奖励</Value>
+  </Translation>
+  <Translation key="next_daily_reward">
+    <Value>距离下次每日奖励还有</Value>
+  </Translation>
+  <Translation key="claim">
+    <Value>领取</Value>
+  </Translation>
+  <Translation key="booster_lock">
+    <Value>第xxx关解锁</Value>
+  </Translation>
+  <Translation key="retry">
+    <Value>重试</Value>
+  </Translation>
+  <Translation key="match3_tut_1_1">
+    <Value>将3颗相同颜色的宝石连成一线即可消除</Value>
+  </Translation>
+  <Translation key="match3_tut_1_2">
+    <Value>继续消除宝石，完成关卡目标</Value>
+  </Translation>
+  <Translation key="match3_tut_2_1">
+    <Value>将4颗相同宝石连成一线，看看会生成什么</Value>
+  </Translation>
+  <Translation key="match3_tut_3_1">
+    <Value>将相同宝石横竖相连成T形或L形，即可生成炸弹</Value>
+  </Translation>
+  <Translation key="match3_tut_4_1">
+    <Value>有些宝石被牢笼困住了</Value>
+  </Translation>
+  <Translation key="match3_tut_4_2">
+    <Value>在牢笼旁匹配宝石，即可将其打破</Value>
+  </Translation>
+  <Translation key="match3_tut_5_1">
+    <Value>将相同宝石横竖相连成T形或L形，即可生成炸弹</Value>
+  </Translation>
+  <Translation key="match3_tut_6_1">
+    <Value>将5颗相同宝石连成一线，即可生成彩虹宝石</Value>
+  </Translation>
+  <Translation key="match3_tut_6_2">
+    <Value>试试把彩虹宝石和旁边的宝石交换吧</Value>
+  </Translation>
+  <Translation key="match3_tut_8_1">
+    <Value>匹配宝石，摧毁相邻的水果箱</Value>
+  </Translation>
+  <Translation key="match3_tut_22_1">
+    <Value>匹配宝石，将果冻铺到宝石下方</Value>
+  </Translation>
+  <Translation key="match3_tut_29_1">
+    <Value>把这些卷轴送到棋盘底部</Value>
+  </Translation>
+  <Translation key="match3_tut_29_2">
+    <Value>匹配宝石，为卷轴清出道路</Value>
+  </Translation>
+  <Translation key="match3_tut_11_1">
+    <Value>魔法锤已解锁！它可以直接消除任意一格中的宝石或障碍，来试试吧</Value>
+  </Translation>
+  <Translation key="match3_tut_11_2">
+    <Value>使用魔法锤摧毁这个水果箱，而且不会消耗步数</Value>
+  </Translation>
+  <Translation key="match3_tut_13_1">
+    <Value>横向火箭已解锁！它可以清除整行元素，来试试吧</Value>
+  </Translation>
+  <Translation key="match3_tut_13_2">
+    <Value>点击这里，发射横向火箭</Value>
+  </Translation>
+  <Translation key="match3_tut_20_1">
+    <Value>糖果炸弹已解锁！它可以清除棋盘上的所有元素，来试试吧</Value>
+  </Translation>
+  <Translation key="match3_tut_20_2">
+    <Value>选择一个位置放置糖果炸弹</Value>
+  </Translation>
+  <Translation key="headstar_15_1">
+    <Value>开局火箭道具已解锁！使用后可携带2枚火箭开始关卡</Value>
+  </Translation>
+  <Translation key="headstar_15_2">
+    <Value>现在开始挑战吧</Value>
+  </Translation>
+  <Translation key="headstar_17_1">
+    <Value>开局炸弹道具已解锁！使用后可携带2枚炸弹开始关卡</Value>
+  </Translation>
+  <Translation key="headstar_17_2">
+    <Value>现在开始挑战吧</Value>
+  </Translation>
+  <Translation key="room1_start_tut_1">
+    <Value>先选一件装饰吧，点击(沙发)</Value>
+  </Translation>
+  <Translation key="room1_start_tut_2">
+    <Value>使用(金币)可以购买装饰</Value>
+  </Translation>
+  <Translation key="room1_start_tut_3">
+    <Value>这里有多种选择，你可以(自由搭配)</Value>
+  </Translation>
+  <Translation key="room1_start_tut_4">
+    <Value>在这里确认选择。别担心，之后还可以更换</Value>
+  </Translation>
+  <Translation key="room1_start_tut_5">
+    <Value>我们的(金币)不够，暂时买不了新的(装饰)</Value>
+  </Translation>
+  <Translation key="room1_start_tut_6">
+    <Value>去(关卡)里赢取更多(金币)吧</Value>
+  </Translation>
+  <Translation key="room1_end_tut_1">
+    <Value>太棒了！这个房间已经装饰完成，一起去看看下一个房间吧</Value>
+  </Translation>
+  <Translation key="room1_end_tut_2">
+    <Value>(卧室)已解锁，快去看看吧</Value>
+  </Translation>
+  <Translation key="room1_end_tut_3">
+    <Value>该装饰这个房间了</Value>
+  </Translation>
+  <Translation key="good_morning">
+    <Value>早上好</Value>
+  </Translation>
+  <Translation key="messages_8h_1">
+    <Value>早上好，设计师！喝口咖啡，再来看看你的设计蓝图吧</Value>
+  </Translation>
+  <Translation key="messages_8h_2">
+    <Value>快回来！客户还等着住进新家呢！</Value>
+  </Translation>
+  <Translation key="messages_8h_3">
+    <Value>漂亮的房子可不会自己设计，回来继续开工吧！</Value>
+  </Translation>
+  <Translation key="messages_8h_4">
+    <Value>还有更多客户期待你的设计，快回来吧！</Value>
+  </Translation>
+  <Translation key="messages_8h_5">
+    <Value>今天正适合改造房子，出发吧！</Value>
+  </Translation>
+  <Translation key="good_evening">
+    <Value>晚上好</Value>
+  </Translation>
+  <Translation key="policy">
+    <Value>隐私政策</Value>
+  </Translation>
+  <Translation key="messages_20h_1">
+    <Value>你一定可以！这份设计马上就要完成了！</Value>
+  </Translation>
+  <Translation key="messages_20h_2">
+    <Value>来看看今天的装修成果吧！</Value>
+  </Translation>
+  <Translation key="messages_20h_3">
+    <Value>累了吗？来为你的房子挑选一些精彩设计吧</Value>
+  </Translation>
+  <Translation key="messages_20h_4">
+    <Value>你的设计蓝图堪称杰作，快让大家看看它的魅力吧！</Value>
+  </Translation>
+  <Translation key="messages_20h_5">
+    <Value>嗨，设计师！听说你又有了不少新点子！</Value>
+  </Translation>
+  <Translation key="free_gem_noti_tile">
+    <Value>今日免费宝石</Value>
+  </Translation>
+  <Translation key="free_gem_noti_text">
+    <Value>免费宝石可以领取了！</Value>
+  </Translation>
+  <Translation key="3day_noti_text">
+    <Value>我们很想念你的设计！领取这份礼物，继续开工吧！</Value>
+  </Translation>
+  <Translation key="7day_noti_text">
+    <Value>每日奖励已准备好，快回来领取吧！</Value>
+  </Translation>
+  <Translation key="5m_inf_live">
+    <Value>无限体力还剩5分钟，快回来继续挑战吧！</Value>
+  </Translation>
+  <Translation key="full_live">
+    <Value>体力已经回满，继续设计梦想之家吧！</Value>
+  </Translation>
+  <Translation key="12h_starter_pack">
+    <Value>别错过！新手礼包仅剩12小时！</Value>
+  </Translation>
+  <Translation key="unlock_dialog_1">
+    <Value>哇，效果真漂亮！真想马上看看其他装饰</Value>
+  </Translation>
+  <Translation key="unlock_dialog_2">
+    <Value>这个位置选它正合适</Value>
+  </Translation>
+  <Translation key="unlock_dialog_3">
+    <Value>房间一下子变得更有生气了</Value>
+  </Translation>
+  <Translation key="unlock_dialog_4">
+    <Value>这次装饰真是太惊艳了！</Value>
+  </Translation>
+  <Translation key="unlock_dialog_5">
+    <Value>这是我见过最棒的装饰，你做得太好了！</Value>
+  </Translation>
+  <Translation key="unlock_dialog_6">
+    <Value>你真是一位天赋出众的家居设计师！</Value>
+  </Translation>
+  <Translation key="sofa_dialog_1">
+    <Value>你的眼光真好！新沙发和房间太搭了！</Value>
+  </Translation>
+  <Translation key="sofa_dialog_2">
+    <Value>真期待看到整栋房子装饰完成的样子</Value>
+  </Translation>
+  <Translation key="sofa_dialog_3">
+    <Value>我们还需要更多金币来购买新装饰</Value>
+  </Translation>
+  <Translation key="room1_start_dialog_1">
+    <Value>嗨，设计师！我叫丽莎，欢迎来到我家！</Value>
+  </Translation>
+  <Translation key="room1_start_dialog_2">
+    <Value>你也看到了，我最近刚搬进来，不太擅长装修。能请你帮帮我吗？</Value>
+  </Translation>
+  <Translation key="room1_end_dialog_1">
+    <Value>哇，房间终于装饰好了！现在既活泼又多彩。请你来帮忙果然是个好主意！</Value>
+  </Translation>
+  <Translation key="booster_guide_hammer">
+    <Value>选择要消除的宝石或障碍！</Value>
+  </Translation>
+  <Translation key="booster_guide_candy">
+    <Value>选择一个位置放置糖果炸弹！</Value>
+  </Translation>
+  <Translation key="booster_guide_hrocket">
+    <Value>点击目标位置，发射横向火箭</Value>
+  </Translation>
+  <Translation key="booster_guide_vrocket">
+    <Value>点击目标位置，发射纵向火箭</Value>
+  </Translation>
+  <Translation key="booster_guide_shuffle">
+    <Value>重新打乱棋盘</Value>
+  </Translation>
+  <Translation key="language">
+    <Value>简体中文</Value>
+  </Translation>
+  <Translation key="spin">
+    <Value>开始转动</Value>
+  </Translation>
+  <Translation key="next_free_spin">
+    <Value>距离下次免费转盘还有</Value>
+  </Translation>
+  <Translation key="watch_video">
+    <Value>观看视频</Value>
+  </Translation>
+  <Translation key="free_spin_available">
+    <Value>免费幸运转盘已开放</Value>
+  </Translation>
+  <Translation key="select_jewels">
+    <Value>选择宝石</Value>
+  </Translation>
+  <Translation key="unlock">
+    <Value>解锁</Value>
+  </Translation>
+  <Translation key="select">
+    <Value>选择</Value>
+  </Translation>
+  <Translation key="contact">
+    <Value>联系我们</Value>
+  </Translation>
+  <Translation key="about">
+    <Value>关于</Value>
+  </Translation>
+  <Translation key="phongtam_name">
+    <Value>海滨浴室</Value>
+  </Translation>
+  <Translation key="phongtam_des">
+    <Value>一间美丽的海滨浴室</Value>
+  </Translation>
+</Translations>
