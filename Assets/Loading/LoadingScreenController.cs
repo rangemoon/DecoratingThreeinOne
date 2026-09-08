@@ -107,11 +107,22 @@ public class LoadingScreenController : MonoBehaviour
         //yield return new WaitForSeconds(0.75f);
         PreloadAction?.Invoke();
 
+        if (sceneName == LoadSceneUtility.HomeDesignSceneName)
+        {
+            bool roomReady = false;
+            yield return RoomAssetBundleManager.Instance.PrepareCurrentRoom(success => roomReady = success);
+            if (!roomReady)
+            {
+                ShowLoadingError("房间资源加载失败");
+                yield break;
+            }
+        }
+
         var asyncOperation = SceneManager.LoadSceneAsync(sceneName);
 
         if (asyncOperation == null)
         {
-            ShowLoadingError("场景加载失败，请刷新后重试");
+            ShowLoadingError(CustomLocalization.Get("scene_load_failed"));
             yield break;
         }
 

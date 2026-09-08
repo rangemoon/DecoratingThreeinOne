@@ -78,13 +78,24 @@ namespace Decor {
 
             //AudioManager.Instance.StopMusic();
             PrepareBgTextureEvent = null;
+
+            if (roomData != null && RoomAssetBundleManager.IsInstanceExisting)
+                RoomAssetBundleManager.Instance.UnloadRoom(roomData.assetBundleName);
         }
         
         /// <summary>
-        /// 从 Resources 整包加载房间 Prefab 并初始化装饰系统。
+        /// 从房间 AssetBundle 加载 Prefab 并初始化装饰系统。
         /// </summary>
         private IEnumerator LoadRoomAndInitialize() {
-            GameObject roomPrefab = Resources.Load<GameObject>(roomData.assetBundleName + "/" + RoomData.RoomPrefabName);
+            bool roomReady = false;
+            yield return RoomAssetBundleManager.Instance.EnsureRoomReady(roomData.assetBundleName, success => roomReady = success);
+            if (!roomReady) {
+                Debug.LogError("Room bundle failed: " + roomData.assetBundleName);
+                enabled = false;
+                yield break;
+            }
+
+            GameObject roomPrefab = RoomAssetBundleManager.Instance.LoadRoomPrefab(roomData.assetBundleName);
             if (!roomPrefab) {
                 Debug.LogError("Room prefab is missing: " + roomData.assetBundleName + "/" + RoomData.RoomPrefabName);
                 enabled = false;

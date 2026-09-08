@@ -280,33 +280,24 @@ public static class DailyBonusUtility
     {
         #if UNITY_EDITOR
             return true;
-        #endif
-
-        if (AdvertisementManager.Instance.IsRewardedVideoAvailable)
-        {
+        #else
 			var playerData = PlayerData.current;
 
 			if (string.IsNullOrEmpty(playerData.lastReceiveDailyBonusTime))
-			{
 				return true;
-			}
-			else
+
+			var lastReceiveDateTime = DateTimeUtility.Get(playerData.lastReceiveDailyBonusTime);
+			var currentDateTime = DateTime.Now;
+
+			if (lastReceiveDateTime >= currentDateTime
+				|| (lastReceiveDateTime.Year == currentDateTime.Year
+				&& lastReceiveDateTime.Month == currentDateTime.Month
+				&& lastReceiveDateTime.Day == currentDateTime.Day))
 			{
-				var lastReceiveDateTime = DateTimeUtility.Get(playerData.lastReceiveDailyBonusTime);
-				var currentDateTime = DateTime.Now;
-
-				if (lastReceiveDateTime >= currentDateTime
-					|| (lastReceiveDateTime.Year == currentDateTime.Year
-					&& lastReceiveDateTime.Month == currentDateTime.Month
-					&& lastReceiveDateTime.Day == currentDateTime.Day))
-				{
-					return false;
-				}
-
-				return true;
+				return false;
 			}
-		}
 
-		return false;
+			return true;
+        #endif
     }
 }

@@ -177,7 +177,7 @@ namespace Decor
         }
 
         /// <summary>
-        /// 从 Resources 加载变体预览图。优先 UI 目录下的 *_mini；没有再按房间实际目录回退，最后用道具 Prefab 上已挂的变体贴图。
+        /// 从当前房间 AssetBundle 加载变体预览图。优先 *_mini，没有再按原名查找，最后用道具 Prefab 上已挂的变体贴图。
         /// </summary>
         void ShowItemVariant()
         {
@@ -203,19 +203,7 @@ namespace Decor
         /// </summary>
         Sprite LoadVariantPreviewSprite(string basePath, string spriteName, DesignItemView item, int variantIndex)
         {
-            Sprite sprite = Resources.Load<Sprite>(basePath + "/UI/" + spriteName + "_mini");
-            if (sprite != null)
-                return sprite;
-
-            sprite = Resources.Load<Sprite>(basePath + "/Texture2D/" + spriteName);
-            if (sprite != null)
-                return sprite;
-
-            sprite = Resources.Load<Sprite>(basePath + "/Final/" + spriteName);
-            if (sprite != null)
-                return sprite;
-
-            sprite = Resources.Load<Sprite>(basePath + "/Sprite/" + spriteName);
+            Sprite sprite = RoomAssetBundleManager.Instance.LoadVariantPreviewSprite(basePath, spriteName);
             if (sprite != null)
                 return sprite;
 
@@ -264,7 +252,7 @@ namespace Decor
             else
             {
                 Currency cost = itemData.variantCosts[itemData.variantIndex];
-                if (cost.type == CurrencyType.Ads && AdvertisementManager.Instance.IsRewardedVideoAvailable)
+                if (cost.type == CurrencyType.Ads)
                 {
                     return true;
                 }
@@ -312,12 +300,7 @@ namespace Decor
             else
             {
                 Currency cost = itemData.variantCosts[itemData.variantIndex];
-
-                if (cost.type == CurrencyType.Ads && AdvertisementManager.Instance.IsRewardedVideoAvailable)
-                {
-                    AdvertisementManager.Instance.ShowRewardedVideo(SucessApplyEvent);
-                }
-                else if (cost.type == CurrencyType.Gem && PlayerData.current.gemCount >= cost.value)
+                if (cost.type == CurrencyType.Gem && PlayerData.current.gemCount >= cost.value)
                 {
                     PlayerData.current.AddGem(-cost.value);
                     EventDispatcher<GlobalEventId>.Instance.NotifyEvent(GlobalEventId.GemChange, PlayerData.current.gemCount);

@@ -71,13 +71,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Packed Addressables
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
-
-# Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
-
 RiderScriptEditorPersistedState.asset
 mono_crash.*.json
 mono_crash.*.blob
@@ -95,5 +88,7 @@ Settings.json
 Assets/RiderFlow.UserData
 Assets/ImageRechannel.meta
 Assets/ImageRechannel/
-/ServerData/
-/CCDBuildData/
+
+# Room AssetBundle build output
+/Bundles/
+/Assets/StreamingAssets/ab/
