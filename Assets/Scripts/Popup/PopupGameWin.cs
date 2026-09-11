@@ -175,17 +175,12 @@ public class PopupGameWin : PopupBase
         bonusGemCanvasGroup.gameObject.transform.localScale = 0.35f * Vector3.one;
         bonusGemCanvasGroup.gameObject.transform.DOScale(1f, 0.5f).SetEase(Ease.OutBack).SetDelay(0.75f);
 
-        var moreCoinCanvasGroup = moreCoinButton.GetComponent<CanvasGroup>();
-        moreCoinCanvasGroup.alpha = 0f;
-        moreCoinCanvasGroup.DOFade(1f, 0.5f).SetDelay(0.95f);
-
-        var color = orText.color;
-        orText.color = new Color(color.r, color.g, color.b, 0f);
-        orText.DOFade(1f, 0.5f).SetDelay(1.1f);
-
-        var moreGemCanvasGroup = moreGemButton.GetComponent<CanvasGroup>();
-        moreGemCanvasGroup.alpha = 0f;
-        moreGemCanvasGroup.DOFade(1f, 0.5f).SetDelay(1.25f);
+        if (moreCoinButton != null)
+            moreCoinButton.gameObject.SetActive(false);
+        if (moreGemButton != null)
+            moreGemButton.gameObject.SetActive(false);
+        if (orText != null)
+            orText.gameObject.SetActive(false);
 
         //var color = continueText.color;
         //continueText.color = new Color(color.r, color.g, color.b, 0f);

@@ -252,12 +252,6 @@ namespace Decor {
                     SetDelayTime(1.5f).
                     SetBackBlockerEvent(null).
                     Open();
-            } else if (UnityEngine.Random.Range(0, 100) < 50 && ServiceUtility.InternetAvailable) {
-                Popup.PopupSystem.GetOpenBuilder().
-                    SetType(PopupType.PopupFreeGemAds).
-                    SetCurrentPopupBehaviour(Popup.CurrentPopupBehaviour.HideTemporary).
-                    SetDelayTime(1.5f).
-                    Open();
             }
         }
 

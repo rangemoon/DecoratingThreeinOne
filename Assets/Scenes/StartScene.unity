@@ -421,7 +421,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f3a111b3237162c48abaa43409370886, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2d7350dcd2d71e34f963b5c1eaa69a9d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -577,7 +577,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &516047574
 RectTransform:
   m_ObjectHideFlags: 0
@@ -694,9 +694,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17be57c6b37ca0b45a7a018bbaa150b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sSource: 
-  node_RedDot: {fileID: 0}
-  <launchType>k__BackingField: 17
 --- !u!1 &573723415
 GameObject:
   m_ObjectHideFlags: 0
@@ -2418,26 +2415,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95195a13afed3a845b41da01a14b1a08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  onAwake:
-    m_PersistentCalls:
-      m_Calls: []
-  onEnable:
-    m_PersistentCalls:
-      m_Calls: []
-  onDisable:
-    m_PersistentCalls:
-      m_Calls: []
-  onDestroy:
-    m_PersistentCalls:
-      m_Calls: []
-  ePageName: 10
-  sCustomPageName: 
-  listen_canGroup: {fileID: 0}
-  bIgnoreFirstState: 0
-  bEnable_insert: 1
-  eBannerType: 2
-  l_videoAd: []
-  l_nativeAd: []
 --- !u!1 &1707892020
 GameObject:
   m_ObjectHideFlags: 0

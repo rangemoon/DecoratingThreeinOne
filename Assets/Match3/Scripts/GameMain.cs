@@ -385,8 +385,6 @@ public class GameMain : MonoBehaviour
 
 	public void StartProto(MapData mapData)
 	{
-		AppTempData.watch_ads_reward_3moves_count = 0;
-
 		for (int i = 0; i < 35; i++)
 		{
 			var bonusCoin = Instantiate(bonusCoinPrefab.gameObject).GetComponent<ThrownBonusCoin>();

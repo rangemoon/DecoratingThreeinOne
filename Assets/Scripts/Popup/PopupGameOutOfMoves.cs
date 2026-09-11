@@ -10,17 +10,17 @@ using System.Xml.Serialization;
 
 public class PopupGameOutOfMoves : PopupBase
 {
+	public const int ContinueGemCost = 50;
+
 	public Transform main;
 
     public CollectBlockPlayView collectViewSample;
 
-	public Button buttonContinueAds;
-
-	public Button buttonContinueGemReplacement;
-
 	public RectTransform characterTransform;
 
 	public SkeletonGraphic characterGraphic;
+
+	public Text gemCostText;
 
 	private UIEdgeSnapPosition characterEdgeSnap;
 
@@ -29,11 +29,6 @@ public class PopupGameOutOfMoves : PopupBase
     private void Start()
     {
 		InitRemainingGoals();
-
-		bool allowWatchAdsReward3Moves = !(AppTempData.watch_ads_reward_3moves_count == AppTempData.watch_ads_reward_3moves_limit /*&& RemoteConfig.index_ads_move == 1*/);
-			
-		buttonContinueAds.gameObject.SetActive(allowWatchAdsReward3Moves);		
-		buttonContinueGemReplacement.gameObject.SetActive(!allowWatchAdsReward3Moves);
 	}
 
 	private void InitRemainingGoals()
@@ -119,6 +114,9 @@ public class PopupGameOutOfMoves : PopupBase
 		PopupAnimationUtility.AnimateScale(main, Ease.OutBack, 0.25f, 1f, 0.25f, 0f);
 
 		characterGraphic.AnimationState.AddAnimation(0, "lose", true, 0f);
+
+		if (gemCostText != null)
+			gemCostText.text = ContinueGemCost.ToString();
 	}
 
     public override void Close(bool forceDestroying = true)
@@ -138,9 +136,10 @@ public class PopupGameOutOfMoves : PopupBase
 
     public void ContinueWithGem()
     {
-		if (PlayerData.current.gemCount >= 50)
+		if (PlayerData.current.gemCount >= ContinueGemCost)
         {
-			PlayerData.current.AddGem(-50);
+			PlayerData.current.AddGem(-ContinueGemCost);
+			EventDispatcher<GlobalEventId>.Instance.NotifyEvent(GlobalEventId.GemChange, PlayerData.current.gemCount);
 
 			AcceptEvent?.Invoke(5);
 			invokeDenyEvent = false;
@@ -149,56 +148,8 @@ public class PopupGameOutOfMoves : PopupBase
 		}
         else
         {
-			PopupUtility.OpenPopupLiteMesage("宝石不足");
-			invokeDenyEvent = false;
+			PopupUtility.OpenPopupLiteMesage("钻石不足");
 		}	
     }
-
-	public void ContinueWithGem_Replacement()
-	{
-		if (PlayerData.current.gemCount >= 30)
-		{
-			PlayerData.current.AddGem(-30);
-
-			AcceptEvent?.Invoke(3);
-			invokeDenyEvent = false;
-
-			CloseInternal();
-		}
-		else
-		{
-			PopupUtility.OpenPopupLiteMesage("宝石不足");
-			invokeDenyEvent = false;
-		}
-	}
-
-	public void ContinueWithAds()
-    {
-		Action RewardedVideoReward = () =>
-		{
-			AppTempData.watch_ads_reward_3moves_count++;
-
-			AcceptEvent?.Invoke(3);
-			invokeDenyEvent = false;
-
-			CloseInternal();
-
-			//AppEventTracker.LogEventRewardAd("outofmove_+3", true);
-
-			var playerData = PlayerData.current;
-			playerData.tempData.extra3MovesRewardCount++;
-			//if (playerData.tempData.extra3MovesRewardCount == 5)
-			//{
-			//	AppEventTracker.PushEvent5RewardVideos3Move();
-			//}
-		};
-
-        Action RewardedVideoFailed = () =>
-        {
-            //AppEventTracker.LogEventRewardAd("outofmove_+3", false);
-            
-        };
-		RewardedVideoReward();
-	}
 
 }

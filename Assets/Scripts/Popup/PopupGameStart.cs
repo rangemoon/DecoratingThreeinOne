@@ -13,8 +13,6 @@ public class PopupGameStart : PopupBase {
 
     public Text PlayButtonText;
 
-    public Text Play3MovesButtonText;
-
     [Header("Goal")]
     public Transform GoalGroupTransform;
 
@@ -96,7 +94,6 @@ public class PopupGameStart : PopupBase {
         if (LoadSceneUtility.CurrentSceneName.Equals(LoadSceneUtility.Match3SceneName)) {
             isRetryState = true;
             PlayButtonText.text = CustomLocalization.Get("retry");
-            Play3MovesButtonText.text = CustomLocalization.Get("retry");
         }
 
         InitGoal();
@@ -262,59 +259,6 @@ public class PopupGameStart : PopupBase {
             }
 
             canvasGroup.blocksRaycasts = false;
-        } else {
-            Popup.PopupSystem.
-                GetOpenBuilder().
-                SetType(PopupType.PopupStaminaStore).
-                SetCurrentPopupBehaviour(CurrentPopupBehaviour.HideTemporary).
-                Open();
-        }
-    }
-
-    public void OnEventButtonGamePlay3Moves() {
-        if (playerData.stamina.Available()) {
-            bool rewardGranted = false;
-            canvasGroup.blocksRaycasts = false;
-
-            Action RewardedVideoReward = () => {
-                if (rewardGranted) return;
-                rewardGranted = true;
-
-                GameMain.rewardMove3ByADStart = true;
-
-                if (isRetryState) {
-                    AnimationController.Instance.ClearAnimationQueueGoalAndStopAllCoroutines();
-                } else {
-                    Decor.GameDecorController.PrepareBgTexture();
-                }
-
-                reloadMatch3Scene = true;
-                Model.Instance.UpdatePlayerHomeDesignData();
-                LoadSceneUtility.LoadScene(LoadSceneUtility.Match3SceneName, () => {
-                    PopupSystem.Instance.CloseAllPopupsImmediately();
-                    SoundManager.StopMusic();
-                }, ProcessBoosterCount);
-
-                canvasGroup.blocksRaycasts = false;
-
-                //AppEventTracker.LogEventRewardAd("match3_start_+3", true);
-
-                playerData.tempData.extra3MovesRewardCount++;
-                if (playerData.tempData.extra3MovesRewardCount == 5) {
-                    // Firebase.Analytics.FirebaseAnalytics.LogEvent("Feature_selected_5_ads_3move");
-                }
-            };
-
-            Action RewardedVideoFailed = () => {
-                if (rewardGranted) return;
-
-                canvasGroup.blocksRaycasts = true;
-                
-                //AppEventTracker.LogEventRewardAd("match3_start_+3", false);
-            };
-
-            RewardedVideoReward();
-
         } else {
             Popup.PopupSystem.
                 GetOpenBuilder().
