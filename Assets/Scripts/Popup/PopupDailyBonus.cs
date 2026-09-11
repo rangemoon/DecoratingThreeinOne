@@ -72,18 +72,19 @@ public class PopupDailyBonus : PopupBase
     {
 		int currentDay = DailyBonusUtility.GetCurrentDay();
 
+		if (DailyBonusUtility.IsCycleCompleted())
+		{
+			for (int i = 0; i < dailyBonusUIPack.Length; i++)
+				dailyBonusUIPack[i].SetAsClaimed();
+			return;
+		}
+
 		for (int i = 0; i < dailyBonusUIPack.Length; i++)
         {
 			if (i < currentDay)
 				dailyBonusUIPack[i].SetAsClaimed();
 			else if (i == currentDay)
-			{
 				dailyBonusUIPack[i].SetAsCurrent();
-				if (available == false)
-                {
-					dailyBonusUIPack[i].x2RewardButton.gameObject.SetActive(false);
-				}
-			}	
 			else 
 				dailyBonusUIPack[i].SetAsNext();
         }
@@ -151,6 +152,11 @@ public class PopupDailyBonus : PopupBase
 		DailyBonusUtility.SaveLastReceiveTimeAsPresent();
 		DailyBonusUtility.IncreaseCurrentDay();
 
+		available = false;
+		nextRewardTime.gameObject.SetActive(true);
+		if (timeCoroutine != null) StopCoroutine(timeCoroutine);
+		timeCoroutine = StartCoroutine(TimeUpdate());
+
 		UpdateDailyBonusUIPack();
 
 		//AppEventTracker.LogEventDailyBonus(Analytics.Feature_DAILY_BONUS.ACTION_NAME._claim_reward);
@@ -159,25 +165,7 @@ public class PopupDailyBonus : PopupBase
 
 	public void X2BonusPressed()
     {
-		if (DailyBonusUtility.Available() == false)
-			return;
-		
-		Action RewardedVideoReward = () =>
-		{
-			ReceiveDailyBonus(2);
-
-			DailyBonusUtility.SaveLastReceiveTimeAsPresent();
-			DailyBonusUtility.IncreaseCurrentDay();
-
-			UpdateDailyBonusUIPack();
-
-			//AppEventTracker.LogEventRewardAd("daily_bonus", true);
-			//AppEventTracker.LogEventDailyBonus(Analytics.Feature_DAILY_BONUS.ACTION_NAME._watch_ads);
-
-			// Firebase.Analytics.FirebaseAnalytics.LogEvent("daily_bonus", new Firebase.Analytics.Parameter("watch_ads", "true"));
-		};
-
-		RewardedVideoReward();
+		ClaimButtonPressed();
     }
 
 	private void ReceiveDailyBonus(int multiplier)
@@ -260,15 +248,29 @@ public class PopupDailyBonus : PopupBase
 
 public static class DailyBonusUtility
 {
+	public const int CycleDayCount = 7;
+
 	public static int GetCurrentDay()
     {
-		return PlayerData.current.currentDailyBonusDay;
+		TryResetCycle();
+		int day = PlayerData.current.currentDailyBonusDay;
+		return day >= CycleDayCount ? CycleDayCount - 1 : day;
     }
+
+	/// <summary>
+	/// 当前 7 天周期是否已经全部领取，需等到下一个自然日才重置。
+	/// </summary>
+	public static bool IsCycleCompleted()
+	{
+		TryResetCycle();
+		return PlayerData.current.currentDailyBonusDay >= CycleDayCount;
+	}
 
 	public static void IncreaseCurrentDay()
     {
 		var playerData = PlayerData.current;
-		playerData.currentDailyBonusDay = (playerData.currentDailyBonusDay + 1) % 7;
+		if (playerData.currentDailyBonusDay < CycleDayCount)
+			playerData.currentDailyBonusDay++;
 	}
 
 	public static void SaveLastReceiveTimeAsPresent()
@@ -278,26 +280,39 @@ public static class DailyBonusUtility
 
 	public static bool Available()
     {
-        #if UNITY_EDITOR
-            return true;
-        #else
-			var playerData = PlayerData.current;
+		TryResetCycle();
 
-			if (string.IsNullOrEmpty(playerData.lastReceiveDailyBonusTime))
-				return true;
+		var playerData = PlayerData.current;
 
-			var lastReceiveDateTime = DateTimeUtility.Get(playerData.lastReceiveDailyBonusTime);
-			var currentDateTime = DateTime.Now;
-
-			if (lastReceiveDateTime >= currentDateTime
-				|| (lastReceiveDateTime.Year == currentDateTime.Year
-				&& lastReceiveDateTime.Month == currentDateTime.Month
-				&& lastReceiveDateTime.Day == currentDateTime.Day))
-			{
-				return false;
-			}
-
+		if (string.IsNullOrEmpty(playerData.lastReceiveDailyBonusTime))
 			return true;
-        #endif
+
+		return !IsSameCalendarDay(DateTimeUtility.Get(playerData.lastReceiveDailyBonusTime), DateTime.Now);
     }
+
+	/// <summary>
+	/// 领完第 7 天后，等到下一个自然日再把进度重置回第 1 天。
+	/// </summary>
+	static void TryResetCycle()
+	{
+		var playerData = PlayerData.current;
+		if (playerData.currentDailyBonusDay < CycleDayCount)
+			return;
+
+		if (string.IsNullOrEmpty(playerData.lastReceiveDailyBonusTime)
+			|| !IsSameCalendarDay(DateTimeUtility.Get(playerData.lastReceiveDailyBonusTime), DateTime.Now))
+		{
+			playerData.currentDailyBonusDay = 0;
+		}
+	}
+
+	static bool IsSameCalendarDay(DateTime lastReceiveDateTime, DateTime currentDateTime)
+	{
+		if (lastReceiveDateTime >= currentDateTime)
+			return true;
+
+		return lastReceiveDateTime.Year == currentDateTime.Year
+			&& lastReceiveDateTime.Month == currentDateTime.Month
+			&& lastReceiveDateTime.Day == currentDateTime.Day;
+	}
 }

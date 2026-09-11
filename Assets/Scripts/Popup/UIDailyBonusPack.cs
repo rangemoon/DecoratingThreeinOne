@@ -26,7 +26,10 @@ public class UIDailyBonusPack : MonoBehaviour
     public void SetCallback(UnityAction claimEvent, UnityAction x2rewardAction)
     {
         selectImage.GetComponent<Button>().onClick.AddListener(claimEvent);
+        if (claimButton != null && claimButton != selectImage.GetComponent<Button>())
+            claimButton.onClick.AddListener(claimEvent);
         x2RewardButton.onClick.AddListener(x2rewardAction);
+        HideX2Button();
     }
 
     public void SetAsCurrent()
@@ -34,6 +37,7 @@ public class UIDailyBonusPack : MonoBehaviour
         selectImage.gameObject.SetActive(true);
         claimedObject.SetActive(false);
         comingsoonText.gameObject.SetActive(false);
+        HideX2Button();
     }
 
     public void SetAsNext()
@@ -41,6 +45,7 @@ public class UIDailyBonusPack : MonoBehaviour
         selectImage.gameObject.SetActive(false);
         claimedObject.SetActive(false);
         comingsoonText.gameObject.SetActive(true);
+        HideX2Button();
     }
 
     public void SetAsClaimed()
@@ -48,5 +53,15 @@ public class UIDailyBonusPack : MonoBehaviour
         selectImage.gameObject.SetActive(false);
         claimedObject.SetActive(true);
         comingsoonText.gameObject.SetActive(false);
+        HideX2Button();
+    }
+
+    /// <summary>
+    /// 隐藏看广告翻倍按钮，签到卡片交互与 D1 的点击领取保持一致。
+    /// </summary>
+    private void HideX2Button()
+    {
+        if (x2RewardButton != null)
+            x2RewardButton.gameObject.SetActive(false);
     }
 }
